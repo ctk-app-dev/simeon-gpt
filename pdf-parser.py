@@ -7,7 +7,7 @@ import json
 # Download the PDF
 url = "http://justus.anglican.org/resources/bcp/1928Standard/bcp1928std.pdf"
 response = requests.get(url)
-filename = "bcp1928.pdf"
+filename = "assets/bcp1928.pdf"
 with open(filename, 'wb') as f:
     f.write(response.content)
 
@@ -16,7 +16,6 @@ data = []
 
 for page_layout in extract_pages(filename):
     text_content = []
-    styles = set()
 
     for element in page_layout:
         if isinstance(element, LTTextBox):
@@ -26,20 +25,14 @@ for page_layout in extract_pages(filename):
                         text_content.append(char.get_text())
                         ncolor = char.graphicstate.ncolor if hasattr(char.graphicstate, 'ncolor') else 'Unknown'
 
-                        # Check if the text is red
-                        is_red = ncolor == (1, 0, 0)
-                        if is_red:
-                                styles.add("red")
-
     page_data = {
-        "page": len(data) + 1,
+        "page": page_layout.pageid,
         "text": "".join(text_content),
-        "style": list(styles)
     }
     data.append(page_data)
 
 # Save to JSON
-with open("output.json", "w") as f:
+with open("parsed_pdf_for_page_numbers.json", "w") as f:
     json.dump(data, f, indent=4)
 
 print("Extraction completed!")
