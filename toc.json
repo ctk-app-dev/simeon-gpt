@@ -1,0 +1,138 @@
+[
+    {
+        "label": "The Book of Common Prayer",
+        "source": "Text/TitlePage.xhtml"
+    },
+    {
+        "label": "The Ratification of the Book of Common Prayer",
+        "source": "Text/Ratification.xhtml"
+    },
+    {
+        "label": "Preface",
+        "source": "Text/Preface.xhtml"
+    },
+    {
+        "label": "Concerning the Service of the Church",
+        "source": "Text/ConcerningServiceOfChurch.xhtml"
+    },
+    {
+        "label": "Psalms and Lessons for the Christian Year",
+        "source": "Text/PsalmsAndLessonsAdvent.xhtml"
+    },
+    {
+        "label": "The Calendar",
+        "source": "Text/Calendar.xhtml"
+    },
+    {
+        "label": "Tables and Rules for the Movable and Immovable Feasts",
+        "source": "Text/TablesAndRulesForFeasts.xhtml"
+    },
+    {
+        "label": "Tables of Precedence",
+        "source": "Text/TablesOfPrecedence.xhtml"
+    },
+    {
+        "label": "Tables for finding Holy Days",
+        "source": "Text/TablesForHolyDays.xhtml"
+    },
+    {
+        "label": "The Order for Daily Morning Prayer",
+        "source": "Text/MorningAndEveningPrayer.xhtml"
+    },
+    {
+        "label": "The Order for Daily Evening Prayer",
+        "source": "Text/EveningPrayer.xhtml"
+    },
+    {
+        "label": "Prayers and Thanksgivings",
+        "source": "Text/PrayersAndThanks.xhtml"
+    },
+    {
+        "label": "The Litany",
+        "source": "Text/Litany.xhtml"
+    },
+    {
+        "label": "A Penitential Office for Ash Wednesday",
+        "source": "Text/PenitentialOffice.xhtml"
+    },
+    {
+        "label": "The Order for the Administration of the Lord's Supper",
+        "source": "Text/HolyCommCollEpGosp.xhtml"
+    },
+    {
+        "label": "The Collects, Epistles and Gospels",
+        "source": "Text/Lectionary.xhtml"
+    },
+    {
+        "label": "The Ministration of Holy Baptism",
+        "source": "Text/BaptismEtAl.xhtml"
+    },
+    {
+        "label": "Offices of Instruction",
+        "source": "Text/OfficesOfInstruction.xhtml"
+    },
+    {
+        "label": "The Order of Confirmation",
+        "source": "Text/Confirmation.xhtml"
+    },
+    {
+        "label": "The Solemnization of Matrimony",
+        "source": "Text/Matrimony.xhtml"
+    },
+    {
+        "label": "Thanksgiving of Women after Child-birth",
+        "source": "Text/ChildBirth.xhtml"
+    },
+    {
+        "label": "The Order for the Visitation of the Sick",
+        "source": "Text/VisitationOfSick.xhtml"
+    },
+    {
+        "label": "The Communion of the Sick",
+        "source": "Text/CommunionOfSick.xhtml"
+    },
+    {
+        "label": "The Order for the Burial of the Dead",
+        "source": "Text/BurialOfTheDead.xhtml"
+    },
+    {
+        "label": "At the Burial of a Child",
+        "source": "Text/BurialOfAChild.xhtml"
+    },
+    {
+        "label": "The Psalter, or Psalms of David",
+        "source": "Text/Psalter.xhtml"
+    },
+    {
+        "label": "The Form and Manner of Making, Ordaining, and Consecrating Bishops, Priests, and Deacons",
+        "source": "Text/Ordinal.xhtml"
+    },
+    {
+        "label": "The Litany and Suffrages for Ordinations",
+        "source": "Text/OrdinationLitany.xhtml"
+    },
+    {
+        "label": "The Form of Consecration of a Church or Chapel",
+        "source": "Text/ChurchConsecration.xhtml"
+    },
+    {
+        "label": "An Office of Institution of Ministers into Parishes or Churches",
+        "source": "Text/MinisterInstitution.xhtml"
+    },
+    {
+        "label": "A Catechism",
+        "source": "Text/Catechism.xhtml"
+    },
+    {
+        "label": "Forms of Prayer to be Used in Families",
+        "source": "Text/PrayerIntro.xhtml"
+    },
+    {
+        "label": "Articles of Religion",
+        "source": "Text/ArticlesOfReligionIntro.xhtml"
+    },
+    {
+        "label": "Endnotes",
+        "source": "Text/Endnotes.xhtml"
+    }
+]

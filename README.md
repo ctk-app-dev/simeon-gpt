@@ -1,4 +1,4 @@
-# llm-parser
+# simeon-gpt
 Utility project that uses large language models to parse unstructured text like the Book of Common Prayer 1928.
 
 ## What's with the name?
