@@ -37,34 +37,8 @@ toc_items = extract_toc_items(epub_path)
 with open('toc.json', 'w') as f:
     json.dump(toc_items, f, indent=4)
 
-def extract_content_from_epub(epub_path, toc_items):
-    # Load the EPUB file
-    book = epub.read_epub(epub_path)
-
-    # Dictionary to store the extracted content
-    content_dict = {}
-
-    # Extract content for each item in the table of contents
-    for item in toc_items:
-        # Get the EPUB item using the source path
-        epub_item = book.get_item_with_href(item["source"])
-
-        # If the item is found, store its content
-        if epub_item:
-            content_dict[item["label"]] = epub_item.content.decode('utf-8')
-            # ! Line 54 needs work. Epubs contain too much info
-        else:
-            print(f"Content not found for: {item['label']}")
-
-    return content_dict
-
-# Load the table of contents from the JSON
-with open('toc.json', 'r') as f:
-    toc_items = json.load(f)
-
 # Extract content from the EPUB
 epub_path = 'assets/bcp1928.epub'
-content_dict = extract_content_from_epub(epub_path, toc_items)
 
 # Save the extracted content to a JSON file
 with open('parsed_epub_for_content.json', 'w') as f:

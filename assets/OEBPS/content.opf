@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:title>The Book of Common Prayer</dc:title>
+        <dc:rights>Public Domain</dc:rights>
+        <dc:creator opf:role="aut">Protestant Episcopal Church</dc:creator>
+        <dc:language>en</dc:language>
+        <dc:identifier id="BookID" opf:scheme="UUID">f6b3f01e-77d9-4d11-ac76-cacffc1df529</dc:identifier>
+        <meta name="cover" content="x1928BCP.jpg"/>
+        <meta name="Sigil version" content="0.2.4"/>
+    </metadata>
+    <manifest>
+        <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+        <item id="x1928BCP.jpg" href="Images/1928BCP.jpg" media-type="image/jpeg"/>
+        <item id="bcp.css" href="Styles/bcp.css" media-type="text/css"/>
+        <item id="ASaint.xhtml" href="Text/ASaint.xhtml" media-type="application/xhtml+xml"/>
+        <item id="AdditionalPrayers.xhtml" href="Text/AdditionalPrayers.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Advent2.xhtml" href="Text/Advent2.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Advent3.xhtml" href="Text/Advent3.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Advent4.xhtml" href="Text/Advent4.xhtml" media-type="application/xhtml+xml"/>
+        <item id="AllSaintsNov1.xhtml" href="Text/AllSaintsNov1.xhtml" media-type="application/xhtml+xml"/>
+        <item id="AndrewNov30.xhtml" href="Text/AndrewNov30.xhtml" media-type="application/xhtml+xml"/>
+        <item id="AnnunciationMar25.xhtml" href="Text/AnnunciationMar25.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ArticlesOfReligion.xhtml" href="Text/ArticlesOfReligion.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ArticlesOfReligionIntro.xhtml" href="Text/ArticlesOfReligionIntro.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Ascension.xhtml" href="Text/Ascension.xhtml" media-type="application/xhtml+xml"/>
+        <item id="AshWednesday.xhtml" href="Text/AshWednesday.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Baptism.xhtml" href="Text/Baptism.xhtml" media-type="application/xhtml+xml"/>
+        <item id="BaptismEtAl.xhtml" href="Text/BaptismEtAl.xhtml" media-type="application/xhtml+xml"/>
+        <item id="BarnabasJun11.xhtml" href="Text/BarnabasJun11.xhtml" media-type="application/xhtml+xml"/>
+        <item id="BartholomewAug24.xhtml" href="Text/BartholomewAug24.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Burial.xhtml" href="Text/Burial.xhtml" media-type="application/xhtml+xml"/>
+        <item id="BurialOfAChild.xhtml" href="Text/BurialOfAChild.xhtml" media-type="application/xhtml+xml"/>
+        <item id="BurialOfTheDead.xhtml" href="Text/BurialOfTheDead.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Calendar.xhtml" href="Text/Calendar.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Catechism.xhtml" href="Text/Catechism.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Certificate.xhtml" href="Text/Certificate.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ChildBirth.xhtml" href="Text/ChildBirth.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Christmas.xhtml" href="Text/Christmas.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Christmas1.xhtml" href="Text/Christmas1.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Christmas2.xhtml" href="Text/Christmas2.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ChristmasSeason.xhtml" href="Text/ChristmasSeason.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ChurchConsecration.xhtml" href="Text/ChurchConsecration.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Circumcision.xhtml" href="Text/Circumcision.xhtml" media-type="application/xhtml+xml"/>
+        <item id="CommunionOfSick.xhtml" href="Text/CommunionOfSick.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ConcerningServiceOfChurch.xhtml" href="Text/ConcerningServiceOfChurch.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Confirmation.xhtml" href="Text/Confirmation.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ConsecratingBishop.xhtml" href="Text/ConsecratingBishop.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ConversionOfPaulJan25.xhtml" href="Text/ConversionOfPaulJan25.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Cover.html" href="Text/Cover.html" media-type="application/xhtml+xml"/>
+        <item id="DedicationOfChurch.xhtml" href="Text/DedicationOfChurch.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Easter.xhtml" href="Text/Easter.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Easter1.xhtml" href="Text/Easter1.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Easter2.xhtml" href="Text/Easter2.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Easter3.xhtml" href="Text/Easter3.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Easter4.xhtml" href="Text/Easter4.xhtml" media-type="application/xhtml+xml"/>
+        <item id="EasterEven.xhtml" href="Text/EasterEven.xhtml" media-type="application/xhtml+xml"/>
+        <item id="EasterSeason.xhtml" href="Text/EasterSeason.xhtml" media-type="application/xhtml+xml"/>
+        <item id="EditorsNotes.xhtml" href="Text/EditorsNotes.xhtml" media-type="application/xhtml+xml"/>
+        <item id="EmberDays.xhtml" href="Text/EmberDays.xhtml" media-type="application/xhtml+xml"/>
+        <item id="EmberDaysFourSeasons.xhtml" href="Text/EmberDaysFourSeasons.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Endnotes.xhtml" href="Text/Endnotes.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Epiphany.xhtml" href="Text/Epiphany.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Epiphany1.xhtml" href="Text/Epiphany1.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Epiphany2.xhtml" href="Text/Epiphany2.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Epiphany3.xhtml" href="Text/Epiphany3.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Epiphany4.xhtml" href="Text/Epiphany4.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Epiphany5.xhtml" href="Text/Epiphany5.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Epiphany6.xhtml" href="Text/Epiphany6.xhtml" media-type="application/xhtml+xml"/>
+        <item id="EpiphanySeason.xhtml" href="Text/EpiphanySeason.xhtml" media-type="application/xhtml+xml"/>
+        <item id="EveningPrayer.xhtml" href="Text/EveningPrayer.xhtml" media-type="application/xhtml+xml"/>
+        <item id="FamilyEvening.xhtml" href="Text/FamilyEvening.xhtml" media-type="application/xhtml+xml"/>
+        <item id="FamilyMorning.xhtml" href="Text/FamilyMorning.xhtml" media-type="application/xhtml+xml"/>
+        <item id="FamilyShorter.xhtml" href="Text/FamilyShorter.xhtml" media-type="application/xhtml+xml"/>
+        <item id="FixedHolyDays.xhtml" href="Text/FixedHolyDays.xhtml" media-type="application/xhtml+xml"/>
+        <item id="GoodFriday.xhtml" href="Text/GoodFriday.xhtml" media-type="application/xhtml+xml"/>
+        <item id="HolyCommCollEpGosp.xhtml" href="Text/HolyCommCollEpGosp.xhtml" media-type="application/xhtml+xml"/>
+        <item id="HolyCommunion.xhtml" href="Text/HolyCommunion.xhtml" media-type="application/xhtml+xml"/>
+        <item id="HolyInnocentsDec28.xhtml" href="Text/HolyInnocentsDec28.xhtml" media-type="application/xhtml+xml"/>
+        <item id="IndependenceDayJul4.xhtml" href="Text/IndependenceDayJul4.xhtml" media-type="application/xhtml+xml"/>
+        <item id="JamesApostleJul25.xhtml" href="Text/JamesApostleJul25.xhtml" media-type="application/xhtml+xml"/>
+        <item id="JohnApostleDec27.xhtml" href="Text/JohnApostleDec27.xhtml" media-type="application/xhtml+xml"/>
+        <item id="JohnBaptistJun24.xhtml" href="Text/JohnBaptistJun24.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Lectionary.xhtml" href="Text/Lectionary.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Lent1.xhtml" href="Text/Lent1.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Lent2.xhtml" href="Text/Lent2.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Lent3.xhtml" href="Text/Lent3.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Lent4.xhtml" href="Text/Lent4.xhtml" media-type="application/xhtml+xml"/>
+        <item id="LentenSeason.xhtml" href="Text/LentenSeason.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Litany.xhtml" href="Text/Litany.xhtml" media-type="application/xhtml+xml"/>
+        <item id="LukeOct18.xhtml" href="Text/LukeOct18.xhtml" media-type="application/xhtml+xml"/>
+        <item id="MakingDeacons.xhtml" href="Text/MakingDeacons.xhtml" media-type="application/xhtml+xml"/>
+        <item id="MarkApr25.xhtml" href="Text/MarkApr25.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Marriage.xhtml" href="Text/Marriage.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Matrimony.xhtml" href="Text/Matrimony.xhtml" media-type="application/xhtml+xml"/>
+        <item id="MatthewSep21.xhtml" href="Text/MatthewSep21.xhtml" media-type="application/xhtml+xml"/>
+        <item id="MatthiasFeb24.xhtml" href="Text/MatthiasFeb24.xhtml" media-type="application/xhtml+xml"/>
+        <item id="MaundyThursday.xhtml" href="Text/MaundyThursday.xhtml" media-type="application/xhtml+xml"/>
+        <item id="MichaelAndAllAngelsSep29.xhtml" href="Text/MichaelAndAllAngelsSep29.xhtml" media-type="application/xhtml+xml"/>
+        <item id="MinisterInstitution.xhtml" href="Text/MinisterInstitution.xhtml" media-type="application/xhtml+xml"/>
+        <item id="MonBeforeEaster.xhtml" href="Text/MonBeforeEaster.xhtml" media-type="application/xhtml+xml"/>
+        <item id="MonEasterWeek.xhtml" href="Text/MonEasterWeek.xhtml" media-type="application/xhtml+xml"/>
+        <item id="MonWhitsunWeek.xhtml" href="Text/MonWhitsunWeek.xhtml" media-type="application/xhtml+xml"/>
+        <item id="MorningAndEveningPrayer.xhtml" href="Text/MorningAndEveningPrayer.xhtml" media-type="application/xhtml+xml"/>
+        <item id="MorningPrayer.xhtml" href="Text/MorningPrayer.xhtml" media-type="application/xhtml+xml"/>
+        <item id="NextBeforeAdvent.xhtml" href="Text/NextBeforeAdvent.xhtml" media-type="application/xhtml+xml"/>
+        <item id="OfficesOfInstruction.xhtml" href="Text/OfficesOfInstruction.xhtml" media-type="application/xhtml+xml"/>
+        <item id="OrderingPriests.xhtml" href="Text/OrderingPriests.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Ordinal.xhtml" href="Text/Ordinal.xhtml" media-type="application/xhtml+xml"/>
+        <item id="OrdinalPreface.xhtml" href="Text/OrdinalPreface.xhtml" media-type="application/xhtml+xml"/>
+        <item id="OrdinationLitany.xhtml" href="Text/OrdinationLitany.xhtml" media-type="application/xhtml+xml"/>
+        <item id="P10thDay.xhtml" href="Text/P10thDay.xhtml" media-type="application/xhtml+xml"/>
+        <item id="P11thDay.xhtml" href="Text/P11thDay.xhtml" media-type="application/xhtml+xml"/>
+        <item id="P12thDay.xhtml" href="Text/P12thDay.xhtml" media-type="application/xhtml+xml"/>
+        <item id="P13thDay.xhtml" href="Text/P13thDay.xhtml" media-type="application/xhtml+xml"/>
+        <item id="P14thDay.xhtml" href="Text/P14thDay.xhtml" media-type="application/xhtml+xml"/>
+        <item id="P15thDay.xhtml" href="Text/P15thDay.xhtml" media-type="application/xhtml+xml"/>
+        <item id="P16thDay.xhtml" href="Text/P16thDay.xhtml" media-type="application/xhtml+xml"/>
+        <item id="P17thDay.xhtml" href="Text/P17thDay.xhtml" media-type="application/xhtml+xml"/>
+        <item id="P18thDay.xhtml" href="Text/P18thDay.xhtml" media-type="application/xhtml+xml"/>
+        <item id="P19thDay.xhtml" href="Text/P19thDay.xhtml" media-type="application/xhtml+xml"/>
+        <item id="P20thDay.xhtml" href="Text/P20thDay.xhtml" media-type="application/xhtml+xml"/>
+        <item id="P21stDay.xhtml" href="Text/P21stDay.xhtml" media-type="application/xhtml+xml"/>
+        <item id="P22ndDay.xhtml" href="Text/P22ndDay.xhtml" media-type="application/xhtml+xml"/>
+        <item id="P23rdDay.xhtml" href="Text/P23rdDay.xhtml" media-type="application/xhtml+xml"/>
+        <item id="P24thDay.xhtml" href="Text/P24thDay.xhtml" media-type="application/xhtml+xml"/>
+        <item id="P25thDay.xhtml" href="Text/P25thDay.xhtml" media-type="application/xhtml+xml"/>
+        <item id="P26thDay.xhtml" href="Text/P26thDay.xhtml" media-type="application/xhtml+xml"/>
+        <item id="P27thDay.xhtml" href="Text/P27thDay.xhtml" media-type="application/xhtml+xml"/>
+        <item id="P28thDay.xhtml" href="Text/P28thDay.xhtml" media-type="application/xhtml+xml"/>
+        <item id="P29thDay.xhtml" href="Text/P29thDay.xhtml" media-type="application/xhtml+xml"/>
+        <item id="P2ndDay.xhtml" href="Text/P2ndDay.xhtml" media-type="application/xhtml+xml"/>
+        <item id="P30thDay.xhtml" href="Text/P30thDay.xhtml" media-type="application/xhtml+xml"/>
+        <item id="P3rdDay.xhtml" href="Text/P3rdDay.xhtml" media-type="application/xhtml+xml"/>
+        <item id="P4thDay.xhtml" href="Text/P4thDay.xhtml" media-type="application/xhtml+xml"/>
+        <item id="P5thDay.xhtml" href="Text/P5thDay.xhtml" media-type="application/xhtml+xml"/>
+        <item id="P6thDay.xhtml" href="Text/P6thDay.xhtml" media-type="application/xhtml+xml"/>
+        <item id="P7thDay.xhtml" href="Text/P7thDay.xhtml" media-type="application/xhtml+xml"/>
+        <item id="P8thDay.xhtml" href="Text/P8thDay.xhtml" media-type="application/xhtml+xml"/>
+        <item id="P9thDay.xhtml" href="Text/P9thDay.xhtml" media-type="application/xhtml+xml"/>
+        <item id="PalmSunday.xhtml" href="Text/PalmSunday.xhtml" media-type="application/xhtml+xml"/>
+        <item id="PassionSunday.xhtml" href="Text/PassionSunday.xhtml" media-type="application/xhtml+xml"/>
+        <item id="PenitentialOffice.xhtml" href="Text/PenitentialOffice.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Pentecost.xhtml" href="Text/Pentecost.xhtml" media-type="application/xhtml+xml"/>
+        <item id="PeterJun29.xhtml" href="Text/PeterJun29.xhtml" media-type="application/xhtml+xml"/>
+        <item id="PhilipAndJamesMay1.xhtml" href="Text/PhilipAndJamesMay1.xhtml" media-type="application/xhtml+xml"/>
+        <item id="PrayerIntro.xhtml" href="Text/PrayerIntro.xhtml" media-type="application/xhtml+xml"/>
+        <item id="PrayersAndThanks.xhtml" href="Text/PrayersAndThanks.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Preface.xhtml" href="Text/Preface.xhtml" media-type="application/xhtml+xml"/>
+        <item id="PresOfChristInTempleFeb2.xhtml" href="Text/PresOfChristInTempleFeb2.xhtml" media-type="application/xhtml+xml"/>
+        <item id="PsalmsAndLessonsAdvent.xhtml" href="Text/PsalmsAndLessonsAdvent.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Psalter.xhtml" href="Text/Psalter.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Quinquagesima.xhtml" href="Text/Quinquagesima.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Ratification.xhtml" href="Text/Ratification.xhtml" media-type="application/xhtml+xml"/>
+        <item id="RogationDays.xhtml" href="Text/RogationDays.xhtml" media-type="application/xhtml+xml"/>
+        <item id="RogationSunday.xhtml" href="Text/RogationSunday.xhtml" media-type="application/xhtml+xml"/>
+        <item id="SecondOffice.xhtml" href="Text/SecondOffice.xhtml" media-type="application/xhtml+xml"/>
+        <item id="SelectionsOfPsalms.xhtml" href="Text/SelectionsOfPsalms.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Septuagesima.xhtml" href="Text/Septuagesima.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Sexagesima.xhtml" href="Text/Sexagesima.xhtml" media-type="application/xhtml+xml"/>
+        <item id="SimonAndJudeOct28.xhtml" href="Text/SimonAndJudeOct28.xhtml" media-type="application/xhtml+xml"/>
+        <item id="SpecialOccasions.xhtml" href="Text/SpecialOccasions.xhtml" media-type="application/xhtml+xml"/>
+        <item id="StephenDec26.xhtml" href="Text/StephenDec26.xhtml" media-type="application/xhtml+xml"/>
+        <item id="SunAfterAscension.xhtml" href="Text/SunAfterAscension.xhtml" media-type="application/xhtml+xml"/>
+        <item id="TablesAndRulesForFeasts.xhtml" href="Text/TablesAndRulesForFeasts.xhtml" media-type="application/xhtml+xml"/>
+        <item id="TablesForHolyDays.xhtml" href="Text/TablesForHolyDays.xhtml" media-type="application/xhtml+xml"/>
+        <item id="TablesOfPrecedence.xhtml" href="Text/TablesOfPrecedence.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ThanksgivingDay.xhtml" href="Text/ThanksgivingDay.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ThomasDec21.xhtml" href="Text/ThomasDec21.xhtml" media-type="application/xhtml+xml"/>
+        <item id="TitlePage.xhtml" href="Text/TitlePage.xhtml" media-type="application/xhtml+xml"/>
+        <item id="TransfigurationAug6.xhtml" href="Text/TransfigurationAug6.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Trinity.xhtml" href="Text/Trinity.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Trinity1.xhtml" href="Text/Trinity1.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Trinity10.xhtml" href="Text/Trinity10.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Trinity10th.xhtml" href="Text/Trinity10th.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Trinity11.xhtml" href="Text/Trinity11.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Trinity12.xhtml" href="Text/Trinity12.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Trinity13.xhtml" href="Text/Trinity13.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Trinity14.xhtml" href="Text/Trinity14.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Trinity15.xhtml" href="Text/Trinity15.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Trinity16.xhtml" href="Text/Trinity16.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Trinity17.xhtml" href="Text/Trinity17.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Trinity18.xhtml" href="Text/Trinity18.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Trinity19.xhtml" href="Text/Trinity19.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Trinity2.xhtml" href="Text/Trinity2.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Trinity20.xhtml" href="Text/Trinity20.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Trinity20th.xhtml" href="Text/Trinity20th.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Trinity21.xhtml" href="Text/Trinity21.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Trinity22.xhtml" href="Text/Trinity22.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Trinity23.xhtml" href="Text/Trinity23.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Trinity24.xhtml" href="Text/Trinity24.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Trinity3.xhtml" href="Text/Trinity3.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Trinity4.xhtml" href="Text/Trinity4.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Trinity5.xhtml" href="Text/Trinity5.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Trinity6.xhtml" href="Text/Trinity6.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Trinity7.xhtml" href="Text/Trinity7.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Trinity8.xhtml" href="Text/Trinity8.xhtml" media-type="application/xhtml+xml"/>
+        <item id="Trinity9.xhtml" href="Text/Trinity9.xhtml" media-type="application/xhtml+xml"/>
+        <item id="TrinitySun.xhtml" href="Text/TrinitySun.xhtml" media-type="application/xhtml+xml"/>
+        <item id="TueBeforeEaster.xhtml" href="Text/TueBeforeEaster.xhtml" media-type="application/xhtml+xml"/>
+        <item id="TueEasterWeek.xhtml" href="Text/TueEasterWeek.xhtml" media-type="application/xhtml+xml"/>
+        <item id="TueWhitsunWeek.xhtml" href="Text/TueWhitsunWeek.xhtml" media-type="application/xhtml+xml"/>
+        <item id="VisitationOfSick.xhtml" href="Text/VisitationOfSick.xhtml" media-type="application/xhtml+xml"/>
+        <item id="WedBeforeEaster.xhtml" href="Text/WedBeforeEaster.xhtml" media-type="application/xhtml+xml"/>
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="Cover.html"/>
+        <itemref idref="TitlePage.xhtml"/>
+        <itemref idref="EditorsNotes.xhtml"/>
+        <itemref idref="Certificate.xhtml"/>
+        <itemref idref="Ratification.xhtml"/>
+        <itemref idref="Preface.xhtml"/>
+        <itemref idref="ConcerningServiceOfChurch.xhtml"/>
+        <itemref idref="SelectionsOfPsalms.xhtml"/>
+        <itemref idref="PsalmsAndLessonsAdvent.xhtml"/>
+        <itemref idref="ChristmasSeason.xhtml"/>
+        <itemref idref="EpiphanySeason.xhtml"/>
+        <itemref idref="LentenSeason.xhtml"/>
+        <itemref idref="EasterSeason.xhtml"/>
+        <itemref idref="Trinity.xhtml"/>
+        <itemref idref="Trinity10th.xhtml"/>
+        <itemref idref="Trinity20th.xhtml"/>
+        <itemref idref="EmberDays.xhtml"/>
+        <itemref idref="SpecialOccasions.xhtml"/>
+        <itemref idref="FixedHolyDays.xhtml"/>
+        <itemref idref="Calendar.xhtml"/>
+        <itemref idref="TablesAndRulesForFeasts.xhtml"/>
+        <itemref idref="TablesOfPrecedence.xhtml"/>
+        <itemref idref="TablesForHolyDays.xhtml"/>
+        <itemref idref="MorningAndEveningPrayer.xhtml"/>
+        <itemref idref="MorningPrayer.xhtml"/>
+        <itemref idref="EveningPrayer.xhtml"/>
+        <itemref idref="PrayersAndThanks.xhtml"/>
+        <itemref idref="Litany.xhtml"/>
+        <itemref idref="PenitentialOffice.xhtml"/>
+        <itemref idref="HolyCommCollEpGosp.xhtml"/>
+        <itemref idref="HolyCommunion.xhtml"/>
+        <itemref idref="Lectionary.xhtml"/>
+        <itemref idref="Advent2.xhtml"/>
+        <itemref idref="Advent3.xhtml"/>
+        <itemref idref="Advent4.xhtml"/>
+        <itemref idref="Christmas.xhtml"/>
+        <itemref idref="StephenDec26.xhtml"/>
+        <itemref idref="JohnApostleDec27.xhtml"/>
+        <itemref idref="HolyInnocentsDec28.xhtml"/>
+        <itemref idref="Christmas1.xhtml"/>
+        <itemref idref="Circumcision.xhtml"/>
+        <itemref idref="Christmas2.xhtml"/>
+        <itemref idref="Epiphany.xhtml"/>
+        <itemref idref="Epiphany1.xhtml"/>
+        <itemref idref="Epiphany2.xhtml"/>
+        <itemref idref="Epiphany3.xhtml"/>
+        <itemref idref="Epiphany4.xhtml"/>
+        <itemref idref="Epiphany5.xhtml"/>
+        <itemref idref="Epiphany6.xhtml"/>
+        <itemref idref="Septuagesima.xhtml"/>
+        <itemref idref="Sexagesima.xhtml"/>
+        <itemref idref="Quinquagesima.xhtml"/>
+        <itemref idref="AshWednesday.xhtml"/>
+        <itemref idref="Lent1.xhtml"/>
+        <itemref idref="Lent2.xhtml"/>
+        <itemref idref="Lent3.xhtml"/>
+        <itemref idref="Lent4.xhtml"/>
+        <itemref idref="PassionSunday.xhtml"/>
+        <itemref idref="PalmSunday.xhtml"/>
+        <itemref idref="MonBeforeEaster.xhtml"/>
+        <itemref idref="TueBeforeEaster.xhtml"/>
+        <itemref idref="WedBeforeEaster.xhtml"/>
+        <itemref idref="MaundyThursday.xhtml"/>
+        <itemref idref="GoodFriday.xhtml"/>
+        <itemref idref="EasterEven.xhtml"/>
+        <itemref idref="Easter.xhtml"/>
+        <itemref idref="MonEasterWeek.xhtml"/>
+        <itemref idref="TueEasterWeek.xhtml"/>
+        <itemref idref="Easter1.xhtml"/>
+        <itemref idref="Easter2.xhtml"/>
+        <itemref idref="Easter3.xhtml"/>
+        <itemref idref="Easter4.xhtml"/>
+        <itemref idref="RogationSunday.xhtml"/>
+        <itemref idref="Ascension.xhtml"/>
+        <itemref idref="SunAfterAscension.xhtml"/>
+        <itemref idref="Pentecost.xhtml"/>
+        <itemref idref="MonWhitsunWeek.xhtml"/>
+        <itemref idref="TueWhitsunWeek.xhtml"/>
+        <itemref idref="TrinitySun.xhtml"/>
+        <itemref idref="Trinity1.xhtml"/>
+        <itemref idref="Trinity2.xhtml"/>
+        <itemref idref="Trinity3.xhtml"/>
+        <itemref idref="Trinity4.xhtml"/>
+        <itemref idref="Trinity5.xhtml"/>
+        <itemref idref="Trinity6.xhtml"/>
+        <itemref idref="Trinity7.xhtml"/>
+        <itemref idref="Trinity8.xhtml"/>
+        <itemref idref="Trinity9.xhtml"/>
+        <itemref idref="Trinity10.xhtml"/>
+        <itemref idref="Trinity11.xhtml"/>
+        <itemref idref="Trinity12.xhtml"/>
+        <itemref idref="Trinity13.xhtml"/>
+        <itemref idref="Trinity14.xhtml"/>
+        <itemref idref="Trinity15.xhtml"/>
+        <itemref idref="Trinity16.xhtml"/>
+        <itemref idref="Trinity17.xhtml"/>
+        <itemref idref="Trinity18.xhtml"/>
+        <itemref idref="Trinity19.xhtml"/>
+        <itemref idref="Trinity20.xhtml"/>
+        <itemref idref="Trinity21.xhtml"/>
+        <itemref idref="Trinity22.xhtml"/>
+        <itemref idref="Trinity23.xhtml"/>
+        <itemref idref="Trinity24.xhtml"/>
+        <itemref idref="NextBeforeAdvent.xhtml"/>
+        <itemref idref="AndrewNov30.xhtml"/>
+        <itemref idref="ThomasDec21.xhtml"/>
+        <itemref idref="ConversionOfPaulJan25.xhtml"/>
+        <itemref idref="PresOfChristInTempleFeb2.xhtml"/>
+        <itemref idref="MatthiasFeb24.xhtml"/>
+        <itemref idref="AnnunciationMar25.xhtml"/>
+        <itemref idref="MarkApr25.xhtml"/>
+        <itemref idref="PhilipAndJamesMay1.xhtml"/>
+        <itemref idref="BarnabasJun11.xhtml"/>
+        <itemref idref="JohnBaptistJun24.xhtml"/>
+        <itemref idref="PeterJun29.xhtml"/>
+        <itemref idref="JamesApostleJul25.xhtml"/>
+        <itemref idref="TransfigurationAug6.xhtml"/>
+        <itemref idref="BartholomewAug24.xhtml"/>
+        <itemref idref="MatthewSep21.xhtml"/>
+        <itemref idref="MichaelAndAllAngelsSep29.xhtml"/>
+        <itemref idref="LukeOct18.xhtml"/>
+        <itemref idref="SimonAndJudeOct28.xhtml"/>
+        <itemref idref="AllSaintsNov1.xhtml"/>
+        <itemref idref="ASaint.xhtml"/>
+        <itemref idref="DedicationOfChurch.xhtml"/>
+        <itemref idref="EmberDaysFourSeasons.xhtml"/>
+        <itemref idref="RogationDays.xhtml"/>
+        <itemref idref="IndependenceDayJul4.xhtml"/>
+        <itemref idref="ThanksgivingDay.xhtml"/>
+        <itemref idref="Marriage.xhtml"/>
+        <itemref idref="Burial.xhtml"/>
+        <itemref idref="BaptismEtAl.xhtml"/>
+        <itemref idref="Baptism.xhtml"/>
+        <itemref idref="OfficesOfInstruction.xhtml"/>
+        <itemref idref="SecondOffice.xhtml"/>
+        <itemref idref="Confirmation.xhtml"/>
+        <itemref idref="Matrimony.xhtml"/>
+        <itemref idref="ChildBirth.xhtml"/>
+        <itemref idref="VisitationOfSick.xhtml"/>
+        <itemref idref="CommunionOfSick.xhtml"/>
+        <itemref idref="BurialOfTheDead.xhtml"/>
+        <itemref idref="BurialOfAChild.xhtml"/>
+        <itemref idref="Psalter.xhtml"/>
+        <itemref idref="P2ndDay.xhtml"/>
+        <itemref idref="P3rdDay.xhtml"/>
+        <itemref idref="P4thDay.xhtml"/>
+        <itemref idref="P5thDay.xhtml"/>
+        <itemref idref="P6thDay.xhtml"/>
+        <itemref idref="P7thDay.xhtml"/>
+        <itemref idref="P8thDay.xhtml"/>
+        <itemref idref="P9thDay.xhtml"/>
+        <itemref idref="P10thDay.xhtml"/>
+        <itemref idref="P11thDay.xhtml"/>
+        <itemref idref="P12thDay.xhtml"/>
+        <itemref idref="P13thDay.xhtml"/>
+        <itemref idref="P14thDay.xhtml"/>
+        <itemref idref="P15thDay.xhtml"/>
+        <itemref idref="P16thDay.xhtml"/>
+        <itemref idref="P17thDay.xhtml"/>
+        <itemref idref="P18thDay.xhtml"/>
+        <itemref idref="P19thDay.xhtml"/>
+        <itemref idref="P20thDay.xhtml"/>
+        <itemref idref="P21stDay.xhtml"/>
+        <itemref idref="P22ndDay.xhtml"/>
+        <itemref idref="P23rdDay.xhtml"/>
+        <itemref idref="P24thDay.xhtml"/>
+        <itemref idref="P25thDay.xhtml"/>
+        <itemref idref="P26thDay.xhtml"/>
+        <itemref idref="P27thDay.xhtml"/>
+        <itemref idref="P28thDay.xhtml"/>
+        <itemref idref="P29thDay.xhtml"/>
+        <itemref idref="P30thDay.xhtml"/>
+        <itemref idref="Ordinal.xhtml"/>
+        <itemref idref="OrdinalPreface.xhtml"/>
+        <itemref idref="MakingDeacons.xhtml"/>
+        <itemref idref="OrderingPriests.xhtml"/>
+        <itemref idref="ConsecratingBishop.xhtml"/>
+        <itemref idref="OrdinationLitany.xhtml"/>
+        <itemref idref="ChurchConsecration.xhtml"/>
+        <itemref idref="MinisterInstitution.xhtml"/>
+        <itemref idref="Catechism.xhtml"/>
+        <itemref idref="PrayerIntro.xhtml"/>
+        <itemref idref="FamilyMorning.xhtml"/>
+        <itemref idref="FamilyEvening.xhtml"/>
+        <itemref idref="FamilyShorter.xhtml"/>
+        <itemref idref="AdditionalPrayers.xhtml"/>
+        <itemref idref="ArticlesOfReligionIntro.xhtml"/>
+        <itemref idref="ArticlesOfReligion.xhtml"/>
+        <itemref idref="Endnotes.xhtml"/>
+    </spine>
+    <guide>
+        <reference type="cover" title="Cover" href="Text/Cover.html"/>
+        <reference type="title-page" title="Title Page" href="Text/TitlePage.xhtml"/>
+        <reference type="notes" title="Notes" href="Text/Endnotes.xhtml"/>
+    </guide>
+</package>
