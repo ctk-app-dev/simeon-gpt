@@ -1,45 +1,34 @@
 import json
-import xml.etree.ElementTree as ET
-from ebooklib import epub
+from bs4 import BeautifulSoup
+from collections import defaultdict
 
-def extract_toc_items(epub_path):
-    # Load the EPUB file
-    book = epub.read_epub(epub_path)
+base_path = "c:/Users/Ben/simeon-gpt/assets/OEBPS/Text"
 
-    # Extract the table of contents
-    toc = book.get_item_with_id('ncx')
+html_doc = open(f"{base_path}/Trinity.xhtml", "r")
 
-    # If the TOC is found, parse its content
-    if toc:
-        # Parse the XML content
-        root = ET.fromstring(toc.content)
+# Assuming 'html_doc' is your xhtml document
+soup = BeautifulSoup(html_doc, 'html.parser')
 
-        # Define the namespace (common for EPUB NCX files)
-        namespaces = {'ncx': 'http://www.daisy.org/z3986/2005/ncx/'}
+# Step 1: Find all elements with class `smallcaps` and save their text.
+smallcaps_elements = soup.find_all(class_="smallcaps")
+smallcaps_text = [element.get_text() for element in smallcaps_elements]
 
-        # Extract each navPoint (TOC item)
-        toc_items = []
-        for nav_point in root.findall('.//ncx:navPoint', namespaces):
-            nav_label = nav_point.find('ncx:navLabel/ncx:text', namespaces).text
-            content_src = nav_point.find('ncx:content', namespaces).get('src')
-            toc_items.append({'label': nav_label, 'source': content_src})
+# Step 2: For each `smallcaps` element, find the following <p> elements.
+# Since <p> elements are not technically children of <span>, but siblings of <span> or <span>'s parent,
+# we'll adjust the strategy to get the next siblings of the <span>'s parent (<p>) that are <p> elements.
 
-        return toc_items
-    else:
-        print("Table of contents not found.")
-        return []
+# Initialize a dictionary to hold the text of <p> elements for each smallcaps entry
+smallcaps_following_p = {text: [] for text in smallcaps_text}
 
-# Test the function
-epub_path = 'assets/bcp1928.epub'
-toc_items = extract_toc_items(epub_path)
+for element in smallcaps_elements:
+    # The direct parent might not always be a <p>, so we find the parent and then iterate over the next siblings
+    parent_element = element.find_parent()
+    for sibling in parent_element.find_next_siblings():
+        if sibling.name == 'p':
+            smallcaps_following_p[element.get_text()].append(sibling.get_text(separator="\n", strip=True))
+        else:
+            break  # Stop if the next sibling is not a <p> to only get immediate <p> siblings
 
-# Save the extracted TOC items to a JSON file
-with open('toc.json', 'w') as f:
-    json.dump(toc_items, f, indent=4)
+print("Smallcaps Texts:", smallcaps_text)
+print("Following <p> Elements:", smallcaps_following_p)
 
-# Extract content from the EPUB
-epub_path = 'assets/bcp1928.epub'
-
-# Save the extracted content to a JSON file
-with open('parsed_epub_for_content.json', 'w') as f:
-    json.dump(content_dict, f, indent=4)
