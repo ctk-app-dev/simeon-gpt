@@ -9,11 +9,21 @@ base_path = Path(__file__).parent / "assets" / "OEBPS" / "Text" # this will make
 html_doc = open(f"{base_path}/Trinity.xhtml", "r")
 
 # Assuming 'html_doc' is your xhtml document
-soup = BeautifulSoup(html_doc, 'html.parser')
+soup = BeautifulSoup(html_doc, 'lxml')
+
+texts = defaultdict(list)
 
 # Finding all the h4 elements
 h4 = soup.find_all('h4')
-for h in h4: # this gets which trinity it is
-    print(h.text)
-    for sibling in h.next_siblings: # this gets the texts and days of week
-        print(sibling)
+for h in h4:  # this gets which trinity it is
+    q = h.text.replace('\xa0', ' ').title()
+    for sibling in h.next_siblings:  # this gets the texts and days of week
+        if sibling.name == "p":  # Filtering by  'p' for paragraphs
+            texts[q].append((sibling.get_text()))
+        else:
+            # Handle non-tag siblings (like NavigableString, which could be just text or whitespace) if needed
+            pass
+
+# Converting to a regular dict for readability
+print(json.dumps(texts, indent=2))
+
