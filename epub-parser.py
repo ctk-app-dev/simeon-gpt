@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from collections import defaultdict
 from pathlib import Path
 
-
+weekdays = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
 base_path = Path(__file__).parent / "assets" / "OEBPS" / "Text" # this will make sure it works regardless of OS/cwd
 
 html_doc = open(f"{base_path}/Trinity.xhtml", "r")
@@ -18,8 +18,9 @@ h4 = soup.find_all('h4')
 for h in h4:  # this gets which trinity it is
     q = h.text.replace('\xa0', ' ').title()
     for sibling in h.next_siblings:  # this gets the texts and days of week
-        if sibling.name == "p":  # Filtering by  'p' for paragraphs
-            texts[q].append((sibling.get_text()))
+        if (sibling.name == "p"):  # Filtering by  'p' for paragraphs
+            text = sibling.get_text()
+            texts[q].append(text) if any(day in text for day in weekdays) else None
         else:
             # Handle non-tag siblings (like NavigableString, which could be just text or whitespace) if needed
             pass
