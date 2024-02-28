@@ -26,7 +26,6 @@ for h in h4:  # Iterating over elements to determine the trinity
 
         # Append the text to the dictionary only if it contains any of the weekdays
         if any(day in text for day in weekdays):
-            weekday = text.split('\n')[0]
             texts[q].append(text)
 # Converting to a regular dict for readability
 print(json.dumps(texts, indent=2))
