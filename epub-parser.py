@@ -15,16 +15,18 @@ texts = defaultdict(list)
 
 # Finding all the h4 elements
 h4 = soup.find_all('h4')
-for h in h4:  # this gets which trinity it is
-    q = h.text.replace('\xa0', ' ').title()
-    for sibling in h.next_siblings:  # this gets the texts and days of week
-        if (sibling.name == "p"):  # Filtering by  'p' for paragraphs
-            text = sibling.get_text()
-            texts[q].append(text) if any(day in text for day in weekdays) else None
-        else:
-            # Handle non-tag siblings (like NavigableString, which could be just text or whitespace) if needed
-            pass
+for h in h4:  # Iterating over elements to determine the trinity
+    q = h.text.replace('\xa0', ' ').title()  # Normalizing and formatting the text
+    for sibling in h.next_siblings:  # Iterating over sibling elements
+        # Skip processing if the sibling is not a paragraph ('p')
+        if sibling.name != "p":
+            continue
+        
+        text = sibling.get_text()
 
+        # Append the text to the dictionary only if it contains any of the weekdays
+        if any(day in text for day in weekdays):
+            texts[q].append(text)
 # Converting to a regular dict for readability
 print(json.dumps(texts, indent=2))
 
