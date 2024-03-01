@@ -24,14 +24,15 @@ for h in h4:  # Iterating over elements to determine the trinity
     # then, once you have the xhtml for each week, you can perform other logic; another function
     for sibling in h.next_siblings:
         # Skip processing if the sibling is not a paragraph ('p')
-        if sibling.name != "p":
-            continue
+        if sibling.name == "h4":
+            break
         
         text = sibling.get_text()
 
         # Append the text to the dictionary only if it contains any of the weekdays
         if any(day in text for day in weekdays):
-            texts[q].append(text.split('Ps.')[0].strip().replace('\n', ' '))
+            texts[q].append(text)
+
 # Converting to a regular dict for readability
 print(json.dumps(texts, indent=2))
 
@@ -46,5 +47,6 @@ def get_each_week_xhtml(xhtml_path):
     h4 = soup.find_all('h4')
     for h in h4:  # Iterating over elements to determine the trinity
         q = h.text.replace('\xa0', ' ').title()
+        q.append(h.next_siblings)
         
     return soup
