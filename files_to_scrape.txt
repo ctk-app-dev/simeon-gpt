@@ -1,0 +1,11 @@
+assets/OEBPS/Text/ChristmasSeason.xhtml
+assets/OEBPS/Text/EasterSeason.xhtml
+assets/OEBPS/Text/EmberDays.xhtml
+assets/OEBPS/Text/EpiphanySeason.xhtml
+assets/OEBPS/Text/FixedHolyDays.xhtml
+assets/OEBPS/Text/LentenSeason.xhtml
+assets/OEBPS/Text/PsalmsAndLessonsAdvent.xhtml
+assets/OEBPS/Text/SpecialOccasions.xhtml
+assets/OEBPS/Text/Trinity.xhtml
+assets/OEBPS/Text/Trinity10th.xhtml
+assets/OEBPS/Text/Trinity20th.xhtml
