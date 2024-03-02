@@ -40,7 +40,7 @@ def parse_xhtml(path):
 
             # Append the text to the current section and day in the dictionary
             text_to_list = text.split('\n')
-            daytime = [text.strip() for text in text_to_list if any(keyword in text.lower() for keyword in ['evening', 'morning'])]
+            daytime = [text.strip() for text in text_to_list if any(keyword in text.lower() for keyword in ['evening', 'morning', 'eve'])]
             for time in daytime:
                 innermost_layer = [item.strip() for item in text_to_list 
                                    if not any(day in item for day in weekdays) 
@@ -61,11 +61,8 @@ for i in file:
 # print(json.dumps(parse_xhtml('assets/OEBPS/Text/EasterSeason.xhtml'), indent=2))
         
 # Missing:
-# - trinity eve (from easter season)
-# - Pentecost
+#! - The problem on top of all of these is that multiple year options aren't included
 # - Correct logic for the first sunday after christmas (those are labeled by dates and not weekdays)
-# - Epiphany eve
-# - ember days is completely empty for some reason
 # - missing special notes about † On January 13, read Isa. 60:10. It also doesn't like the † character and puts it as \u00e2\u20ac
 # - Epiphany season is dates, not days of week, again
 # - Fixed holy days is just a mess with eves and dates. Each section has "eve" and then the date (e.g., december 21) italicized, and then morning and evening
@@ -73,6 +70,9 @@ for i in file:
 # - Ash Wednesday is treated as a sunday (because it's presented that way, but still)
 # - Easter 6, the weekdays are shortened for God knows why
 # - Good Friday is treated as a Sunday
-# - Easter Even is rolled into Good Friday
         
-# - The problem on top of all of these is that multiple year options aren't included
+#* Fixed ish:
+#* - trinity eve - now treated as a separate day from saturday
+#* - Epiphany eve
+#* - Easter Even is there, but it's duplicated the morning readings
+#* - I don't understand how the ember days are optional, or where they're supposed to go. Left intentionally blank for now
