@@ -13,7 +13,7 @@ def parse_xhtml(path):
     # Assuming 'html_doc' is your xhtml document
     soup = BeautifulSoup(html_doc, "lxml")
 
-    texts = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
+    texts = defaultdict(lambda: defaultdict(lambda: defaultdict(list))) # so we can do {day: {section: [text]}}
 
     # Finding all the h4 elements
     h4_elements = soup.find_all('h4')
@@ -59,3 +59,20 @@ for i in file:
         json.dump(texts, f, indent=2)
 
 # print(json.dumps(parse_xhtml('assets/OEBPS/Text/EasterSeason.xhtml'), indent=2))
+        
+# Missing:
+# - trinity eve (from easter season)
+# - Pentecost
+# - Correct logic for the first sunday after christmas (those are labeled by dates and not weekdays)
+# - Epiphany eve
+# - ember days is completely empty for some reason
+# - missing special notes about † On January 13, read Isa. 60:10. It also doesn't like the † character and puts it as \u00e2\u20ac
+# - Epiphany season is dates, not days of week, again
+# - Fixed holy days is just a mess with eves and dates. Each section has "eve" and then the date (e.g., december 21) italicized, and then morning and evening
+    # - These also have a zillion footnotes
+# - Ash Wednesday is treated as a sunday (because it's presented that way, but still)
+# - Easter 6, the weekdays are shortened for God knows why
+# - Good Friday is treated as a Sunday
+# - Easter Even is rolled into Good Friday
+        
+# - The problem on top of all of these is that multiple year options aren't included
