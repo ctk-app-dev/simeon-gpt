@@ -25,4 +25,12 @@ def debug_epub(path):
 
     return ''.join(diff)
 
-print(debug_epub('assets/OEBPS/Text/Trinity.xhtml'))
+# print(debug_epub('assets/OEBPS/Text/Trinity.xhtml'))
+
+weekdays = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+day_of_week = "Monday"  # Example: "Monday"
+
+# Checking if day_of_week is exactly in weekdays or as a substring of any weekday
+if any(day in day_of_week for day in weekdays):
+    # Your logic here
+    print(f"{day_of_week} is a weekday or contains a weekday name.")

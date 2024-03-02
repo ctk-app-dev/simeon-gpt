@@ -30,16 +30,21 @@ def parse_xhtml(path):
             ## TODO I want to treat each tag BETWEEN morning/evening as a distinct unit. That will allow me to account for years.
             ## * If you do not have Better Comments, get it.
             text = sibling.get_text().strip()
+
+            # Update the current day based on the italic text
             italic_text = sibling.find('i')
             if italic_text:
                 day_of_week = italic_text.get_text().strip()
-                if day_of_week in weekdays:
-                    current_day = day_of_week  # Update the current day based on the italic text
+                if any(day in day_of_week for day in weekdays):
+                    current_day = day_of_week  
+
             # Append the text to the current section and day in the dictionary
             text_to_list = text.split('\n')
             daytime = [text.strip() for text in text_to_list if any(keyword in text.lower() for keyword in ['evening', 'morning'])]
             for time in daytime:
-                innermost_layer = [item.strip() for item in text_to_list if item not in weekdays and item not in daytime]
+                innermost_layer = [item.strip() for item in text_to_list 
+                                   if not any(day in item for day in weekdays) 
+                                   and item not in daytime]
                 texts[outermost_layer][current_day][time].extend(innermost_layer)
 
     return texts
@@ -52,3 +57,5 @@ for i in file:
     title = i.split('/')[-1].split('.')[0]
     with open(f'assets/{title}.json', 'w') as f:
         json.dump(texts, f, indent=2)
+
+# print(json.dumps(parse_xhtml('assets/OEBPS/Text/EasterSeason.xhtml'), indent=2))

@@ -288,16 +288,21 @@
       "Morning": [
         "Ps. 37:1-24",
         "Gen. 24:28-38,49-51,58-67",
-        "1 Cor. 3:18-4:5",
-        "Ember Wednesday",
+        "1 Cor. 3:18-4:5"
+      ],
+      "Evening": [
+        "Ps. 46, 47",
+        "Jer. 4:1-9",
+        "John 9:24"
+      ]
+    },
+    "Ember Wednesday": {
+      "Morning": [
         "Ps. 26",
         "Ezek. 2",
         "Matt. 9:1-13"
       ],
       "Evening": [
-        "Ps. 46, 47",
-        "Jer. 4:1-9",
-        "John 9:24",
         "Ps. 4, 16",
         "Ezek. 3:16",
         "2 Cor. 4"
@@ -307,23 +312,33 @@
       "Morning": [
         "Ps. 37:26",
         "Gen. 25:28",
-        "1 Cor. 4:6",
-        "Ember Friday",
+        "1 Cor. 4:6"
+      ],
+      "Evening": [
+        "Ps. 49",
+        "Jer. 4:11-22",
+        "John 10:1-10"
+      ]
+    },
+    "Ember Friday": {
+      "Morning": [
         "Ps. 95 & 84",
         "Ezek. 34:1-16",
-        "Matt. 10:24-33,37-42",
-        "Ember Saturday",
+        "Matt. 10:24-33,37-42"
+      ],
+      "Evening": [
+        "Ps. 77",
+        "Ezek. 37:1-14",
+        "1 Tim. 4"
+      ]
+    },
+    "Ember Saturday": {
+      "Morning": [
         "Ps. 101",
         "Ezek. 34:17-25,30-31",
         "2 Tim. 2:1-15"
       ],
       "Evening": [
-        "Ps. 49",
-        "Jer. 4:11-22",
-        "John 10:1-10",
-        "Ps. 77",
-        "Ezek. 37:1-14",
-        "1 Tim. 4",
         "Ps. 19, 23",
         "Ezek. 37:21b",
         "1 Tim. 6:6"
@@ -691,11 +706,7 @@
         "Wed. before Easter",
         "Ps. 94",
         "Zech. 12:9-10 & 13:1,7-9",
-        "John 16:1-15",
-        "Maundy Thursday",
-        "Ps. 116",
-        "Jer. 31:31-34",
-        "John 13:18"
+        "John 16:1-15"
       ],
       "Evening": [
         "Ps. 130, 138",
@@ -709,7 +720,16 @@
         "John 15:17",
         "Ps. 74",
         "Lam. 3:1,14-33",
-        "John 16:16",
+        "John 16:16"
+      ]
+    },
+    "Maundy Thursday": {
+      "Morning": [
+        "Ps. 116",
+        "Jer. 31:31-34",
+        "John 13:18"
+      ],
+      "Evening": [
         "Ps. 142, 143",
         "Lam. 3:40-58",
         "John 17"

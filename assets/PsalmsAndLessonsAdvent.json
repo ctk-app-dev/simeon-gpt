@@ -200,16 +200,21 @@
       "Morning": [
         "Ps. 90",
         "Isa. 30:8-17",
-        "Mark 5:21",
-        "Ember Wednesday",
+        "Mark 5:21"
+      ],
+      "Evening": [
+        "Ps. 91",
+        "Isa. 30:18-26",
+        "Rev. 19:1-16"
+      ]
+    },
+    "Ember Wednesday": {
+      "Morning": [
         "Ps. 1, 15",
         "Jer. 23:9-15",
         "Luke 12:35-48"
       ],
       "Evening": [
-        "Ps. 91",
-        "Isa. 30:18-26",
-        "Rev. 19:1-16",
         "Ps. 92",
         "Jer. 23:16-22",
         "Matt. 28:16"
@@ -219,23 +224,33 @@
       "Morning": [
         "Ps. 96",
         "Isa. 32:1-4,15-20",
-        "Mark 6:1-6",
-        "Ember Friday",
+        "Mark 6:1-6"
+      ],
+      "Evening": [
+        "Ps. 93, 98",
+        "Isa. 33:1-10",
+        "Rev. 20:1-6"
+      ]
+    },
+    "Ember Friday": {
+      "Morning": [
         "Ps. 40:1-16",
         "Jer. 23:23-32",
-        "2 Cor. 5:5",
-        "Ember Saturday",
+        "2 Cor. 5:5"
+      ],
+      "Evening": [
+        "Ps. 51",
+        "Jer. 26:1-7,10-15",
+        "2 Tim. 3:14-4:8"
+      ]
+    },
+    "Ember Saturday": {
+      "Morning": [
         "Ps. 42, 43",
         "Mal. 2:1-9",
         "Matt. 9:35-10:15"
       ],
       "Evening": [
-        "Ps. 93, 98",
-        "Isa. 33:1-10",
-        "Rev. 20:1-6",
-        "Ps. 51",
-        "Jer. 26:1-7,10-15",
-        "2 Tim. 3:14-4:8",
         "Ps. 103",
         "Mal. 3:1-6",
         "Heb. 4:14-5:10"
