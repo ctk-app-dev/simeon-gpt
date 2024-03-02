@@ -3,27 +3,34 @@ from bs4 import BeautifulSoup
 from collections import defaultdict
 from pathlib import Path
 
-weekdays = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
-base_path = Path(__file__).parent / "assets" / "OEBPS" / "Text" # this will make sure it works regardless of OS/cwd
 
-html_doc = open(f"{base_path}/Trinity.xhtml", "r")
+def parse_xhtml(path):
+    base_path = Path(__file__).parent  # this will make sure it works regardless of OS/cwd
+    html_doc = open(f"{base_path}/{path}", "r")
 
-# Assuming 'html_doc' is your xhtml document
-soup = BeautifulSoup(html_doc, "lxml")
+    weekdays = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
 
-texts = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
+    # Assuming 'html_doc' is your xhtml document
+    soup = BeautifulSoup(html_doc, "lxml")
 
-# Finding all the h4 elements
-h4_elements = soup.find_all('h4')
-for h in h4_elements:
-    outermost_layer = h.text.replace('\xa0', ' ').title()
-    current_day = 'Sunday'  # Reset to default at the start of each new section, if necessary
+    texts = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
 
-    next_element = h.find_next_sibling()
-    while next_element and next_element.name != 'h4':
-        if next_element.name == 'p':
-            text = next_element.get_text().strip()
-            italic_text = next_element.find('i')
+    # Finding all the h4 elements
+    h4_elements = soup.find_all('h4')
+    for h in h4_elements:
+        outermost_layer = h.text.replace('\xa0', ' ').title()
+        current_day = 'Sunday'  # Reset to default at the start of each new section, if necessary
+
+        next_element = h.find_next_siblings()
+        for sibling in next_element: 
+            if sibling.name == 'h4':
+                break  # Stop if the next h4 is reached
+
+            ## TODO This is the code that needs refactoring. Instead of treating each paragraph as a distinct unit to operate on.
+            ## TODO I want to treat each tag BETWEEN morning/evening as a distinct unit. That will allow me to account for years.
+            ## * If you do not have Better Comments, get it.
+            text = sibling.get_text().strip()
+            italic_text = sibling.find('i')
             if italic_text:
                 day_of_week = italic_text.get_text().strip()
                 if day_of_week in weekdays:
@@ -34,25 +41,17 @@ for h in h4_elements:
             for time in daytime:
                 innermost_layer = [item.strip() for item in text_to_list if item not in weekdays and item not in daytime]
                 texts[outermost_layer][current_day][time].extend(innermost_layer)
-            # texts[outermost_layer][current_day].append(daytime)
-        next_element = next_element.find_next_sibling()
 
-# 'texts' dictionary now structured by h4 headings and contains all p tags grouped accordingly
+    return texts
+
 
 # Converting to a regular dict for readability
-print(json.dumps(texts, indent=2))
+# print(json.dumps(texts, indent=2))
 
+file = open('files_to_scrape.txt', 'r').read().splitlines()
 
-
-def get_each_week_xhtml(xhtml_path):
-    base_path = Path(__file__).parent / "assets" / "OEBPS" / "Text" # code works regardless of OS/cwd
-    html_doc = open(f"{base_path}/{xhtml_path}", "r")
-    soup = BeautifulSoup(html_doc, "lxml")
-
-    # Finding all the h4 elements
-    h4 = soup.find_all('h4')
-    for h in h4:  # Iterating over elements to determine the trinity
-        q = h.text.replace('\xa0', ' ').title()
-        q.append(h.next_siblings)
-        
-    return soup
+for i in file:
+    texts = parse_xhtml(i)
+    title = i.split('/')[-1].split('.')[0]
+    with open(f'assets/{title}.json', 'w') as f:
+        json.dump(texts, f, indent=2)

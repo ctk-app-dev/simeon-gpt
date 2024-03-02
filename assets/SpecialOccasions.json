@@ -1,0 +1,249 @@
+{
+  "The Dedication Of A Church": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 132",
+        "1 Kings 8:22-30",
+        "John 10:22-30"
+      ],
+      "Evening": [
+        "Ps. 84",
+        "Haggai 2:1-9",
+        "1 Cor. 3:9-17"
+      ]
+    }
+  },
+  "Patronal Festival (Of A Bishop)": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 132",
+        "Isa. 61",
+        "Matt. 10:1-20"
+      ],
+      "Evening": [
+        "Ps. 23, 100",
+        "Ecclus. 50:5,11-21",
+        "John 21:15-17"
+      ]
+    }
+  },
+  "Patronal Festival (Of A Confessor)": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 3, 8",
+        "Jer. 15:15",
+        "Eph. 4:1-13"
+      ],
+      "Evening": [
+        "Ps. 121, 124",
+        "Ecclus. 2:1-11",
+        "Luke 12:1-12"
+      ]
+    }
+  },
+  "Patronal Festival (Of A Martyr)": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 30",
+        "Job 19:23-27",
+        "Luke 6:20-36"
+      ],
+      "Evening": [
+        "Ps. 138, 146",
+        "Ecclus. 51:7-12",
+        "Luke 21:10-19"
+      ]
+    }
+  },
+  "Patronal Festival (Of A Virgin)": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 96, 97",
+        "Isa. 54:1-5,11-14",
+        "Luke 10:38"
+      ],
+      "Evening": [
+        "Ps. 45",
+        "Jer. 31:1-14",
+        "Matt. 25:1-13"
+      ]
+    }
+  },
+  "Patronal Festival (Of A Matron)": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 85",
+        "Prov. 31:10",
+        "Rom. 12"
+      ],
+      "Evening": [
+        "Ps. 148",
+        "Esther 4:1,5-17",
+        "Luke 23:50-24:10"
+      ]
+    }
+  },
+  "Independence Day": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 18:1-20",
+        "Isa. 26:1-4,7-8,12",
+        "John 8:31-36"
+      ],
+      "Evening": [
+        "Ps. 121, 122",
+        "Deut. 4:1-14",
+        "Gal. 4:26-5:1"
+      ]
+    }
+  },
+  "Thanksgiving Day": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 65",
+        "Deut. 8:1-11,17-20",
+        "1 Thess. 5:12-23"
+      ],
+      "Evening": [
+        "Ps. 147",
+        "Isa. 12",
+        "Phil. 4:4-7"
+      ]
+    }
+  },
+  "A Memorial Day": {
+    "Sunday": {
+      "Morning or Evening": [
+        "Ps. 148",
+        "Ecclus. 44:1-15",
+        "Heb. 11:32-12:2"
+      ]
+    }
+  },
+  "A National Or State Festival": {
+    "Sunday": {
+      "Morning or Evening": [
+        "Ps. 145 or 46, 47",
+        "Isa. 25:1-9 & 26:1-4",
+        "Heb. 11:8-16 & 12:28"
+      ]
+    }
+  },
+  "A National Or State Fast": {
+    "Sunday": {
+      "Morning or Evening": [
+        "Ps. 3, 20 or 80",
+        "Dan. 9:3-19",
+        "1 Pet. 2:9"
+      ]
+    }
+  },
+  "The End Of The Year": {
+    "Sunday": {
+      "Morning or Evening": [
+        "Ps. 90",
+        "Eccles. 11:1-4,6-10 & 12:13-14",
+        "Rev. 21:1-7"
+      ]
+    }
+  },
+  "Before A Confirmation": {
+    "Sunday": {
+      "Morning or Evening": [
+        "Ps. 143:1-10",
+        "Isa. 11:1-9",
+        "Acts 19:1-7"
+      ]
+    }
+  },
+  "Before The Ordination Of A Deacon": {
+    "Sunday": {
+      "Morning or Evening": [
+        "Ps. 36:5 & 63",
+        "Isa. 6:1-8",
+        "Mark 10:32-45"
+      ]
+    }
+  },
+  "Before The Ordination Of A Priest": {
+    "Sunday": {
+      "Morning or Evening": [
+        "Ps. 132",
+        "Ezek. 3:1-11",
+        "2 Cor. 5:11-6:10"
+      ]
+    }
+  },
+  "Before The Ordination Of A Bishop": {
+    "Sunday": {
+      "Morning or Evening": [
+        "Ps. 23, 100",
+        "Isa. 61",
+        "2 Tim. 2:1-15,19-26"
+      ]
+    }
+  },
+  "At The Institution Of A Minister": {
+    "Sunday": {
+      "Morning or Evening": [
+        "Ps. 99, 100",
+        "Ezek. 33:1-9",
+        "John 10:1-18"
+      ]
+    }
+  },
+  "At The Laying Of A Cornerstone": {
+    "Sunday": {
+      "Morning or Evening": [
+        "Ps. 118",
+        "Isa. 28:14-22",
+        "1 Pet. 2:1-10"
+      ]
+    }
+  },
+  "At A Church Convention": {
+    "Sunday": {
+      "Morning or Evening": [
+        "Ps. 48",
+        "Isa. 55",
+        "Acts 15:22-31"
+      ]
+    }
+  },
+  "At Services In The Interest Of Church Missions": {
+    "Sunday": {
+      "Morning or Evening": [
+        "Ps. 67, 138",
+        "Isa. 43:1-12",
+        "Matt. 28:16"
+      ]
+    }
+  },
+  "At Services In The Interest Of Social Service": {
+    "Sunday": {
+      "Morning or Evening": [
+        "Ps. 41",
+        "Prov. 11:24",
+        "Matt. 7:15-21"
+      ]
+    }
+  },
+  "At Services In The Interest Of Christian Education": {
+    "Sunday": {
+      "Morning or Evening": [
+        "Ps. 19, 63",
+        "Deut. 11:18-21,26-28,32",
+        "Matt. 18:1-14"
+      ]
+    }
+  },
+  "Christian Unity": {
+    "Sunday": {
+      "Morning or Evening": [
+        "Ps. 85 or 122, 133",
+        "Isa. 35",
+        "John 17"
+      ]
+    }
+  }
+}
