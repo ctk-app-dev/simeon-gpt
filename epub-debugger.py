@@ -19,12 +19,10 @@ def debug_epub(path):
     with open(file_path, 'r') as f:
         json_text = f.readlines()
 
-    diffs = difflib.Differ().compare(json_text, html_text)
+    
 
-    diff_list = []
-    for diff in diffs:
-        diff_list.append(diff)
+    diff = list(difflib.unified_diff(html_text, json_text, fromfile='html', tofile='json'))
 
-    return diff_list
+    return ''.join(diff)
 
 print(debug_epub('assets/OEBPS/Text/Trinity.xhtml'))
