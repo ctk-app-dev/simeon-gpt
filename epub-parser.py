@@ -45,9 +45,6 @@ def parse_xhtml(path):
     return texts
 
 
-# Converting to a regular dict for readability
-# print(json.dumps(texts, indent=2))
-
 file = open('files_to_scrape.txt', 'r').read().splitlines()
 
 for i in file:
