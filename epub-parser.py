@@ -8,7 +8,7 @@ def parse_xhtml(path):
     base_path = Path(__file__).parent  # this will make sure it works regardless of OS/cwd
     html_doc = open(f"{base_path}/{path}", "r")
 
-    weekdays = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+    weekdays = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday', 'Eve', 'Even']
 
     # Assuming 'html_doc' is your xhtml document
     soup = BeautifulSoup(html_doc, "lxml")
@@ -35,7 +35,7 @@ def parse_xhtml(path):
             italic_text = sibling.find('i')
             if italic_text:
                 day_of_week = italic_text.get_text().strip()
-                if any(day in day_of_week for day in weekdays):
+                if any(day.lower() in day_of_week.lower() for day in weekdays):
                     current_day = day_of_week  
 
             # Append the text to the current section and day in the dictionary
@@ -55,7 +55,7 @@ file = open('files_to_scrape.txt', 'r').read().splitlines()
 for i in file:
     texts = parse_xhtml(i)
     title = i.split('/')[-1].split('.')[0]
-    with open(f'assets/{title}.json', 'w') as f:
+    with open(f'assets/db/json/{title}.json', 'w') as f:
         json.dump(texts, f, indent=2)
 
 # print(json.dumps(parse_xhtml('assets/OEBPS/Text/EasterSeason.xhtml'), indent=2))
