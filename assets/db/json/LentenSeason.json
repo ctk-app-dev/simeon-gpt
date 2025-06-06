@@ -1,0 +1,770 @@
+{
+  "Septuagesima Sunday": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 20, 121",
+        "*Joshua 1:1-9",
+        "2 Tim. 2:1-13"
+      ],
+      "Evening": [
+        "Ps. 144",
+        "1 Macc. 2:49-64",
+        "1 Tim. 6:11-19"
+      ]
+    },
+    "Monday": {
+      "Morning": [
+        "Ps. 123, 127",
+        "Gen. 1:1-19",
+        "Mark 6:7-13"
+      ],
+      "Evening": [
+        "Ps. 126, 128, 131",
+        "Amos 7:1-8 & 8:1-3",
+        "Gal. 1:1-10"
+      ]
+    },
+    "Tuesday": {
+      "Morning": [
+        "Ps. 135",
+        "Gen. 1:20-2:3",
+        "Mark 6:14-29"
+      ],
+      "Evening": [
+        "Ps. 129, 130",
+        "Amos 1:1-5,13-2:3",
+        "Gal. 1:11"
+      ]
+    },
+    "Wednesday": {
+      "Morning": [
+        "Ps. 137:1-6 & 140",
+        "Gen. 2:4-9,16-25",
+        "Mark 6:30-44"
+      ],
+      "Evening": [
+        "Ps. 132",
+        "Amos 2:6",
+        "Gal. 2:1-10"
+      ]
+    },
+    "Thursday": {
+      "Morning": [
+        "Ps. 141",
+        "Gen. 3",
+        "Mark 6:45"
+      ],
+      "Evening": [
+        "Ps. 139",
+        "Amos 3",
+        "Gal. 2:11"
+      ]
+    },
+    "Friday": {
+      "Morning": [
+        "Ps. 143",
+        "Gen. 4:1-16",
+        "Mark 7:1-13"
+      ],
+      "Evening": [
+        "Ps. 142, 146",
+        "Amos 4:4",
+        "Gal. 3:1-9"
+      ]
+    },
+    "Saturday": {
+      "Morning": [
+        "Ps. 149",
+        "Gen. 6:5-8,13-22",
+        "Mark 7:14-23"
+      ],
+      "Evening": [
+        "Ps. 148, 150",
+        "Amos 5:1-13",
+        "Gal. 3:10-18"
+      ]
+    }
+  },
+  "Sexagesima Sunday": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 71",
+        "*Isa. 50:4-10",
+        "2 Cor. 12:1-12"
+      ],
+      "Evening": [
+        "Ps. 147",
+        "Eccles. 11:1-6",
+        "John 4:31-38"
+      ]
+    },
+    "Monday": {
+      "Morning": [
+        "Ps. 2, 3",
+        "Gen. 7:1,7-10,17-23",
+        "Mark 7:24"
+      ],
+      "Evening": [
+        "Ps. 4, 8",
+        "Amos 5:14-24",
+        "Gal. 3:19"
+      ]
+    },
+    "Tuesday": {
+      "Morning": [
+        "Ps. 5",
+        "Gen. 8:6",
+        "Mark 8:11-26"
+      ],
+      "Evening": [
+        "Ps. 11, 12",
+        "Amos 6:1-8",
+        "Gal. 4:1-11"
+      ]
+    },
+    "Wednesday": {
+      "Morning": [
+        "Ps. 7",
+        "Gen. 9:8-17",
+        "Mark 8:27-9:1"
+      ],
+      "Evening": [
+        "Ps. 13, 14",
+        "Amos 8:4-12",
+        "Gal. 4:12-20"
+      ]
+    },
+    "Thursday": {
+      "Morning": [
+        "Ps. 9",
+        "Gen. 11:1-9",
+        "Mark 9:2-13"
+      ],
+      "Evening": [
+        "Ps. 17",
+        "Amos 9:1-10",
+        "Gal. 4:21"
+      ]
+    },
+    "Friday": {
+      "Morning": [
+        "Ps. 22",
+        "Gen. 11:27-12:8",
+        "Mark 9:14-29"
+      ],
+      "Evening": [
+        "Ps. 6, 26",
+        "Amos 7:10",
+        "Gal. 5:1-12"
+      ]
+    },
+    "Saturday": {
+      "Morning": [
+        "Ps. 16",
+        "Gen. 13:2,5-18",
+        "Mark 9:30-37"
+      ],
+      "Evening": [
+        "Ps. 93, 98",
+        "Hosea 4:1-2,6-10",
+        "Gal. 5:13"
+      ]
+    }
+  },
+  "Quinquagesima Sunday": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 103",
+        "Wisdom 7:7-14",
+        "John 15:1-17"
+      ],
+      "Evening": [
+        "Ps. 119:33-48",
+        "Lev. 19:1-2,9-18",
+        "1 John 4"
+      ]
+    },
+    "Monday": {
+      "Morning": [
+        "Ps. 18:1-20",
+        "Gen. 18:1-16",
+        "Mark 9:38"
+      ],
+      "Evening": [
+        "Ps. 20, 21:1-6",
+        "Hosea 5:10-6:6",
+        "Gal. 6:1-10"
+      ]
+    },
+    "Tuesday": {
+      "Morning": [
+        "Ps. 18:21-36",
+        "Gen. 18:20",
+        "Mark 10:1-16"
+      ],
+      "Evening": [
+        "Ps. 25",
+        "Hosea 11:1-4 & 13:5-16a",
+        "Gal. 6:11"
+      ]
+    }
+  },
+  "Ash Wednesday": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 32, 143",
+        "Isa. 58:1-12",
+        "Heb. 12:1-14"
+      ],
+      "Evening": [
+        "Ps. 102, 130",
+        "Jonah 3 & 4",
+        "Luke 15:10"
+      ]
+    },
+    "Thursday": {
+      "Morning": [
+        "Ps. 27",
+        "Gen. 19:1-3,12-17,24-28",
+        "1 Cor. 1:1-17"
+      ],
+      "Evening": [
+        "Ps. 29, 30",
+        "Jer. 1:4-10,13-19",
+        "John 8:1-11"
+      ]
+    },
+    "Friday": {
+      "Morning": [
+        "Ps. 95 & 40:1-16",
+        "Gen. 21:9-21",
+        "1 Cor. 1:18"
+      ],
+      "Evening": [
+        "Ps. 31",
+        "Jer. 2:1-9,13",
+        "John 8:12-20,31-36"
+      ]
+    },
+    "Saturday": {
+      "Morning": [
+        "Ps. 28",
+        "Gen. 22:1-14,19",
+        "1 Cor. 2"
+      ],
+      "Evening": [
+        "Ps. 34",
+        "Jer. 3:11-18",
+        "John 8:45"
+      ]
+    }
+  },
+  "First Sunday In Lent": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 50",
+        "*Isa. 58",
+        "Matt. 6:1-18"
+      ],
+      "Evening": [
+        "Ps. 15, 92",
+        "Jer. 17:5-14",
+        "1 Cor. 10:1-13"
+      ]
+    },
+    "Monday": {
+      "Morning": [
+        "Ps. 36",
+        "Gen. 24:1-27",
+        "1 Cor. 3:1-17"
+      ],
+      "Evening": [
+        "Ps. 42, 43",
+        "Jer. 3:19",
+        "John 9:1-23"
+      ]
+    },
+    "Tuesday": {
+      "Morning": [
+        "Ps. 37:1-24",
+        "Gen. 24:28-38,49-51,58-67",
+        "1 Cor. 3:18-4:5"
+      ],
+      "Evening": [
+        "Ps. 46, 47",
+        "Jer. 4:1-9",
+        "John 9:24"
+      ]
+    },
+    "Ember Wednesday": {
+      "Morning": [
+        "Ps. 26",
+        "Ezek. 2",
+        "Matt. 9:1-13"
+      ],
+      "Evening": [
+        "Ps. 4, 16",
+        "Ezek. 3:16",
+        "2 Cor. 4"
+      ]
+    },
+    "Thursday": {
+      "Morning": [
+        "Ps. 37:26",
+        "Gen. 25:28",
+        "1 Cor. 4:6"
+      ],
+      "Evening": [
+        "Ps. 49",
+        "Jer. 4:11-22",
+        "John 10:1-10"
+      ]
+    },
+    "Ember Friday": {
+      "Morning": [
+        "Ps. 95 & 84",
+        "Ezek. 34:1-16",
+        "Matt. 10:24-33,37-42"
+      ],
+      "Evening": [
+        "Ps. 77",
+        "Ezek. 37:1-14",
+        "1 Tim. 4"
+      ]
+    },
+    "Ember Saturday": {
+      "Morning": [
+        "Ps. 101",
+        "Ezek. 34:17-25,30-31",
+        "2 Tim. 2:1-15"
+      ],
+      "Evening": [
+        "Ps. 19, 23",
+        "Ezek. 37:21b",
+        "1 Tim. 6:6"
+      ]
+    }
+  },
+  "Second Sunday In Lent": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 86, 142",
+        "*1 Kings 8:37-43",
+        "Col. 3:12-17"
+      ],
+      "Evening": [
+        "Ps. 26, 119:1-16",
+        "2 Sam. 12:1-10,13-14",
+        "1 Cor. 6:9"
+      ]
+    },
+    "Monday": {
+      "Morning": [
+        "Ps. 39",
+        "Gen. 27:1-29",
+        "1 Cor. 5"
+      ],
+      "Evening": [
+        "Ps. 50",
+        "Jer. 4:23",
+        "John 10:11-21"
+      ]
+    },
+    "Tuesday": {
+      "Morning": [
+        "Ps. 41",
+        "Gen. 27:30-40",
+        "1 Cor. 6:1-11"
+      ],
+      "Evening": [
+        "Ps. 51",
+        "Jer. 5:1-9",
+        "John 10:22-38"
+      ]
+    },
+    "Wednesday": {
+      "Morning": [
+        "Ps. 56",
+        "Gen. 27:46-28:4,10-22",
+        "1 Cor. 6:12"
+      ],
+      "Evening": [
+        "Ps. 65, 67",
+        "Jer. 5:10-19",
+        "John 11:1-16"
+      ]
+    },
+    "Thursday": {
+      "Morning": [
+        "Ps. 62",
+        "Gen. 29:1-13,18-20",
+        "1 Cor. 7:1-17"
+      ],
+      "Evening": [
+        "Ps. 66",
+        "Jer. 5:20",
+        "John 11:17-27"
+      ]
+    },
+    "Friday": {
+      "Morning": [
+        "Ps. 95 & 54, 61",
+        "Gen. 32:22-31",
+        "1 Cor. 8"
+      ],
+      "Evening": [
+        "Ps. 69:1-22,30-37",
+        "Jer. 6:1-8",
+        "John 11:28-44"
+      ]
+    },
+    "Saturday": {
+      "Morning": [
+        "Ps. 63",
+        "Gen. 35:1-7,16-20",
+        "1 Cor. 9:1-14"
+      ],
+      "Evening": [
+        "Ps. 72",
+        "Jer. 6:9-21",
+        "John 11:45"
+      ]
+    }
+  },
+  "Third Sunday In Lent": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 25",
+        "*Deut. 6:1-9,20-25",
+        "1 Cor. 3"
+      ],
+      "Evening": [
+        "Ps. 119:113-128 & 143",
+        "Amos 5:4-15",
+        "Gal. 5:16-24"
+      ]
+    },
+    "Monday": {
+      "Morning": [
+        "Ps. 68:1-19",
+        "Gen. 37:3-28,36",
+        "1 Cor. 9:15"
+      ],
+      "Evening": [
+        "Ps. 71",
+        "Jer. 7:1-15",
+        "Mark 10:17-31"
+      ]
+    },
+    "Tuesday": {
+      "Morning": [
+        "Ps. 74",
+        "Gen. 40",
+        "1 Cor. 10:1-13"
+      ],
+      "Evening": [
+        "Ps. 73",
+        "Jer. 7:21-29",
+        "Mark 10:32-45"
+      ]
+    },
+    "Wednesday": {
+      "Morning": [
+        "Ps. 75, 76",
+        "Gen. 41:1a,8,14-24",
+        "1 Cor. 10:14-22"
+      ],
+      "Evening": [
+        "Ps. 77",
+        "Jer. 8:4-13",
+        "Mark 10:46"
+      ]
+    },
+    "Thursday": {
+      "Morning": [
+        "Ps. 85",
+        "Gen. 41:25-40",
+        "1 Cor. 10:23-11:1"
+      ],
+      "Evening": [
+        "Ps. 80",
+        "Jer. 9:2-16",
+        "Mark 11:12-26"
+      ]
+    },
+    "Friday": {
+      "Morning": [
+        "Ps. 95 & 79",
+        "Gen. 42:1-26,29a,35-38",
+        "1 Cor. 11:17"
+      ],
+      "Evening": [
+        "Ps. 86",
+        "Jer. 9:17-24",
+        "Mark 12:1-12"
+      ]
+    },
+    "Saturday": {
+      "Morning": [
+        "Ps. 89:1-19",
+        "Gen. 43:1-5,11-16,26-34",
+        "1 Cor. 12:1-11"
+      ],
+      "Evening": [
+        "Ps. 103",
+        "Jer. 10:1-13",
+        "Mark 12:13-17"
+      ]
+    }
+  },
+  "Fourth Sunday In Lent": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 147",
+        "Exod. 16:4-15",
+        "John 6:27-40"
+      ],
+      "Evening": [
+        "Ps. 116",
+        "Isa. 55",
+        "John 6:41-51"
+      ]
+    },
+    "Monday": {
+      "Morning": [
+        "Ps. 90",
+        "Gen. 44",
+        "1 Cor. 12:12-31a"
+      ],
+      "Evening": [
+        "Ps. 91",
+        "Jer. 13:15",
+        "Mark 12:18-27"
+      ]
+    },
+    "Tuesday": {
+      "Morning": [
+        "Ps. 93, 96",
+        "Gen. 45",
+        "1 Cor. 12:31b-13:13"
+      ],
+      "Evening": [
+        "Ps. 92",
+        "Jer. 14:1-10",
+        "Mark 12:28-37"
+      ]
+    },
+    "Wednesday": {
+      "Morning": [
+        "Ps. 94",
+        "Gen. 47:29-31 & 48:8-20",
+        "1 Cor. 14:1-12"
+      ],
+      "Evening": [
+        "Ps. 97, 98",
+        "Jer. 15:1-9",
+        "Mark 12:38"
+      ]
+    },
+    "Thursday": {
+      "Morning": [
+        "Ps. 104",
+        "Gen. 49:33-50:26",
+        "1 Cor. 14:13-25"
+      ],
+      "Evening": [
+        "Ps. 99, 100",
+        "Jer. 15:10",
+        "Mark 13:1-13"
+      ]
+    },
+    "Friday": {
+      "Morning": [
+        "Ps. 95 & 102",
+        "Exod. 1:8-14,22",
+        "1 Cor. 14:26"
+      ],
+      "Evening": [
+        "Ps. 107",
+        "Jer. 16:5-13",
+        "Mark 13:14-23"
+      ]
+    },
+    "Saturday": {
+      "Morning": [
+        "Ps. 108:1-6 & 112",
+        "Exod. 2:1-22",
+        "1 Cor. 15:1-11"
+      ],
+      "Evening": [
+        "Ps. 118",
+        "Jer. 17:5-14",
+        "Mark 13:24"
+      ]
+    }
+  },
+  "Fifth Sunday In Lent": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 51",
+        "*Isa. 1:10-20",
+        "1 Pet. 4:12"
+      ],
+      "Evening": [
+        "Ps. 42, 43",
+        "Hosea 6:1-6",
+        "Heb. 10:1-25"
+      ]
+    },
+    "Monday": {
+      "Morning": [
+        "Ps. 119:1-16",
+        "Exod. 3:1-15",
+        "1 Cor. 15:12-19"
+      ],
+      "Evening": [
+        "Ps. 119:17-32 & 117",
+        "Jer. 20:7-13",
+        "John 12:1-11"
+      ]
+    },
+    "Tuesday": {
+      "Morning": [
+        "Ps. 123, 127",
+        "Exod. 4:10-18,27-31",
+        "1 Cor. 15:20-34"
+      ],
+      "Evening": [
+        "Ps. 120, 121, 122",
+        "Jer. 22:10-23",
+        "John 12:12-19"
+      ]
+    },
+    "Wednesday": {
+      "Morning": [
+        "Ps. 128, 129",
+        "Exod. 5:1-9,19-6:1",
+        "1 Cor. 15:35-49"
+      ],
+      "Evening": [
+        "Ps. 132",
+        "Jer. 28:1-2,10-17",
+        "John 12:20-33"
+      ]
+    },
+    "Thursday": {
+      "Morning": [
+        "Ps. 144",
+        "Exod. 11:1-8",
+        "1 Cor. 15:50"
+      ],
+      "Evening": [
+        "Ps. 133, 134, 137:1-6",
+        "Jer. 30:12-17,23-24",
+        "John 12:34-43"
+      ]
+    },
+    "Friday": {
+      "Morning": [
+        "Ps. 95 & 141:1-4, 146",
+        "Exod. 12:21-28",
+        "1 Cor. 16:1-14"
+      ],
+      "Evening": [
+        "Ps. 139",
+        "Jer. 32:36-42",
+        "John 12:44"
+      ]
+    },
+    "Saturday": {
+      "Morning": [
+        "Ps. 147",
+        "Exod. 12:29-39,42",
+        "1 Cor. 16:15"
+      ],
+      "Evening": [
+        "Ps. 145",
+        "Jer. 33:1-9,14-16",
+        "John 13:1-17"
+      ]
+    }
+  },
+  "Sixth Sunday In Lent": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 24, 97",
+        "*Zech. 9:9-12",
+        "Mark 11:1-11",
+        "Mon. before Easter",
+        "Ps. 71",
+        "Isa. 42:1-7",
+        "John 14:1-14",
+        "Tues. before Easter",
+        "Ps. 6, 12",
+        "Hosea 14",
+        "John 15:1-16",
+        "Wed. before Easter",
+        "Ps. 94",
+        "Zech. 12:9-10 & 13:1,7-9",
+        "John 16:1-15"
+      ],
+      "Evening": [
+        "Ps. 130, 138",
+        "Jer. 8:9-15,18-9:1",
+        "1 Cor. 1:17",
+        "Ps. 42, 43",
+        "Lam. 1:7-12",
+        "John 14:15",
+        "Ps. 51",
+        "Lam. 2:10,13-19",
+        "John 15:17",
+        "Ps. 74",
+        "Lam. 3:1,14-33",
+        "John 16:16"
+      ]
+    },
+    "Maundy Thursday": {
+      "Morning": [
+        "Ps. 116",
+        "Jer. 31:31-34",
+        "John 13:18"
+      ],
+      "Evening": [
+        "Ps. 142, 143",
+        "Lam. 3:40-58",
+        "John 17"
+      ]
+    }
+  },
+  "Good Friday": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 22, 40:1-16, 54",
+        "Gen. 22:1-18 or Wisdom 2:1,12-24",
+        "John 18"
+      ],
+      "Evening": [
+        "Ps. 69:1-22 & 88",
+        "Isa. 52:13-53:12",
+        "1 Pet. 2:11"
+      ]
+    },
+    "Easter Even": {
+      "Easter Even": [
+        "Ps. 14, 16",
+        "Job 14:1-14",
+        "John 19:38 or Heb. 4"
+      ],
+      "Morning": [
+        "Ps. 14, 16",
+        "Job 14:1-14",
+        "John 19:38 or Heb. 4"
+      ],
+      "Evening": [
+        "Ps. 27",
+        "Job 19:21-27a",
+        "Rom. 6:3-11"
+      ]
+    }
+  }
+}

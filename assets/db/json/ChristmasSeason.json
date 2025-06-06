@@ -1,0 +1,153 @@
+{
+  "Christmas Day": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 89:1-30",
+        "Isa. 9:2-7",
+        "Luke 2:1-20"
+      ],
+      "Evening": [
+        "Ps. 45",
+        "Micah 4:1-5 & 5:2-4",
+        "1 John 4:7-14"
+      ]
+    }
+  },
+  "St. Stephen": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 118",
+        "2 Chron. 24:17-22",
+        "Acts 6"
+      ],
+      "Evening": [
+        "Ps. 30, 31:1-6",
+        "Wisdom 4:7-15",
+        "Acts 7:59-8:8"
+      ]
+    }
+  },
+  "St. John Evangelist": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 23, 24",
+        "Exod. 33:12",
+        "John 13:20-26,31-35"
+      ],
+      "Evening": [
+        "Ps. 97",
+        "Isa. 6:1-8",
+        "Rev. 1"
+      ]
+    }
+  },
+  "Holy Innocents": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 8, 26",
+        "Jer. 31:1-6,15-16",
+        "Matt. 18:1-14"
+      ],
+      "Evening": [
+        "Ps. 19, 126",
+        "Isa. 54:1-13",
+        "Mark 10:13-16,23-31"
+      ]
+    }
+  },
+  "First Sunday After Christmas": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 145",
+        "*Isa. 9:2-7",
+        "Luke 2:1-20",
+        "December 29",
+        "Ps. 27",
+        "Isa. 56:1-8",
+        "1 John 1",
+        "December 30",
+        "Ps. 33",
+        "Isa. 59:1-3,15b-21",
+        "1 John 2:1-17",
+        "December 31",
+        "Ps. 147",
+        "Isa. 62",
+        "1 John 2:18"
+      ],
+      "Evening": [
+        "Ps. 68 or 27",
+        "Isa. 63:7-16",
+        "2 Pet. 1:1-12",
+        "Ps. 20, 21:1-6",
+        "Isa. 57:13",
+        "Heb. 1",
+        "Ps. 111, 112",
+        "Isa. 60:13",
+        "Heb. 2",
+        "Ps. 90, 150",
+        "Deut. 10:12-11:1",
+        "Heb. 3"
+      ]
+    }
+  },
+  "Circumcision": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 103",
+        "Deut. 30:1-10",
+        "Eph. 2:11"
+      ],
+      "Evening": [
+        "Ps. 148",
+        "Deut. 30:11",
+        "Rev. 19:11-16"
+      ]
+    }
+  },
+  "Second Sunday After Christmas": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 65, 121",
+        "*Micah 4:1-5 & 5:2-4",
+        "Luke 2:21-32",
+        "January 2",
+        "Ps. 37:26",
+        "Isa. 63:7-14",
+        "1 John 3:1-11",
+        "January 3",
+        "Ps. 66",
+        "Isa. 64:4",
+        "1 John 3:13",
+        "January 4",
+        "Ps. 92",
+        "Isa. 65:17",
+        "1 John 4",
+        "January 5",
+        "Ps. 144",
+        "Isa. 66:18-23",
+        "1 John 5"
+      ],
+      "Evening": [
+        "Ps. 111, 112",
+        "Prov. 9:1-6,10",
+        "2 Cor. 4:1-6",
+        "Ps. 2, 110",
+        "Isa. 63:15-64:1",
+        "Heb. 4:1-13",
+        "Ps. 34",
+        "Isa. 65:8-16",
+        "Heb. 4:14-5:14",
+        "Ps. 91",
+        "Isa. 66:1-2,5-13",
+        "Heb. 6:1-12"
+      ]
+    },
+    "Epiphany Eve": {
+      "Epiphany Eve": [
+        "Ps. 29, 98",
+        "Isa. 49:1-7",
+        "Luke 3:15-22"
+      ]
+    }
+  }
+}

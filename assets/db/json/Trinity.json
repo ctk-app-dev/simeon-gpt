@@ -1,0 +1,862 @@
+{
+  "Trinity Sunday": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 29, 99",
+        "*Isa. 6:1-8",
+        "1 Pet. 1:1-12"
+      ],
+      "Evening": [
+        "Ps. 98, 100",
+        "Ecclus. 43:1-12,27-33",
+        "Eph. 4:1-16"
+      ]
+    },
+    "Monday": {
+      "Morning": [
+        "Ps. 2, 3",
+        "Num. 16:1-14",
+        "Luke 1:1-25"
+      ],
+      "Evening": [
+        "Ps. 4, 8",
+        "Ezra 1:1-8",
+        "Acts 7:1-16"
+      ]
+    },
+    "Tuesday": {
+      "Morning": [
+        "Ps. 5",
+        "Num. 16:15-35",
+        "Luke 1:26-38"
+      ],
+      "Evening": [
+        "Ps. 16, 20",
+        "Ezra 4:7,11-24",
+        "Acts 7:17-34"
+      ]
+    },
+    "Wednesday": {
+      "Morning": [
+        "Ps. 7",
+        "Num. 17:1-11",
+        "Luke 1:39-56"
+      ],
+      "Evening": [
+        "Ps. 25",
+        "Haggai 1:1-8,12-15",
+        "Acts 7:35-53"
+      ]
+    },
+    "Thursday": {
+      "Morning": [
+        "Ps. 9",
+        "Num. 20:1-13",
+        "Luke 1:57-66"
+      ],
+      "Evening": [
+        "Ps. 27",
+        "Haggai 2:1-9",
+        "Acts 7:54-8:4"
+      ]
+    },
+    "Friday": {
+      "Morning": [
+        "Ps. 10",
+        "Num. 20:14",
+        "Luke 1:67"
+      ],
+      "Evening": [
+        "Ps. 6, 26",
+        "Zech. 1:7-17",
+        "Acts 8:5-25"
+      ]
+    },
+    "Saturday": {
+      "Morning": [
+        "Ps. 13, 14",
+        "Num. 21:4-9",
+        "Luke 2:1-20"
+      ],
+      "Evening": [
+        "Ps. 29, 30",
+        "Zech. 2",
+        "Acts 8:26"
+      ]
+    }
+  },
+  "First Sunday After Trinity": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 73",
+        "*Jer. 23:23-32",
+        "Matt. 7:13-14,21-29"
+      ],
+      "Evening": [
+        "Ps. 119:33-48",
+        "Deut. 30:11",
+        "John 13:1-17,34-35"
+      ]
+    },
+    "Monday": {
+      "Morning": [
+        "Ps. 28",
+        "Num. 22:2-14",
+        "Luke 2:21-40"
+      ],
+      "Evening": [
+        "Ps. 31",
+        "Ezra 5:1-2,6-17",
+        "Acts 9:1-19"
+      ]
+    },
+    "Tuesday": {
+      "Morning": [
+        "Ps. 32",
+        "Num. 22:15-21,36-40",
+        "Luke 2:41"
+      ],
+      "Evening": [
+        "Ps. 33",
+        "Ezra 6:1-12",
+        "Acts 9:20-31"
+      ]
+    },
+    "Wednesday": {
+      "Morning": [
+        "Ps. 37:1-24",
+        "Num. 22:41-23:12",
+        "Luke 3:1-22"
+      ],
+      "Evening": [
+        "Ps. 34",
+        "Ezra 6:13-18",
+        "Acts 9:32"
+      ]
+    },
+    "Thursday": {
+      "Morning": [
+        "Ps. 37:26",
+        "Num. 23:13-26",
+        "Luke 4:1-13"
+      ],
+      "Evening": [
+        "Ps. 39",
+        "Zech. 7:8",
+        "Acts 10:1-23"
+      ]
+    },
+    "Friday": {
+      "Morning": [
+        "Ps. 40:1-16",
+        "Num. 23:27-24:13,25",
+        "Luke 4:14-30"
+      ],
+      "Evening": [
+        "Ps. 41, 54",
+        "Zech. 8:1-13",
+        "Acts 10:24-33"
+      ]
+    },
+    "Saturday": {
+      "Morning": [
+        "Ps. 44",
+        "Deut. 34",
+        "Luke 4:31-41"
+      ],
+      "Evening": [
+        "Ps. 46, 47",
+        "Zech. 8:14",
+        "Acts 10:34"
+      ]
+    }
+  },
+  "Second Sunday After Trinity": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 15, 19",
+        "Job 31:13-28",
+        "1 Cor. 13"
+      ],
+      "Evening": [
+        "Ps. 112, 113",
+        "1 Sam. 20:1-7,12-42",
+        "1 Pet. 1:17"
+      ]
+    },
+    "Monday": {
+      "Morning": [
+        "Ps. 48",
+        "Joshua 1",
+        "Luke 4:42-5:11"
+      ],
+      "Evening": [
+        "Ps. 42, 43",
+        "Ezra 7:1,6-16,25-28",
+        "Acts 11:1-18"
+      ]
+    },
+    "Tuesday": {
+      "Morning": [
+        "Ps. 49",
+        "Joshua 3:1-6,13-17",
+        "Luke 5:12-26"
+      ],
+      "Evening": [
+        "Ps. 50",
+        "Ezra 8:15a,21-23,31-36",
+        "Acts 11:19"
+      ]
+    },
+    "Wednesday": {
+      "Morning": [
+        "Ps. 57",
+        "Joshua 4:1-8",
+        "Luke 5:27"
+      ],
+      "Evening": [
+        "Ps. 61, 62",
+        "Neh. 1",
+        "Acts 12:1-24"
+      ]
+    },
+    "Thursday": {
+      "Morning": [
+        "Ps. 63",
+        "Joshua 6:1-7,11,14-20",
+        "Luke 6:1-11"
+      ],
+      "Evening": [
+        "Ps. 65",
+        "Neh. 2:1-8",
+        "Acts 12:25-13:12"
+      ]
+    },
+    "Friday": {
+      "Morning": [
+        "Ps. 71",
+        "Joshua 14:6",
+        "Luke 6:12-26"
+      ],
+      "Evening": [
+        "Ps. 77",
+        "Neh. 2:9",
+        "Acts 13:13-25"
+      ]
+    },
+    "Saturday": {
+      "Morning": [
+        "Ps. 73",
+        "Joshua 23:1-3,11-16",
+        "Luke 6:27-38"
+      ],
+      "Evening": [
+        "Ps. 66",
+        "Neh. 4:6",
+        "Acts 13:26-43"
+      ]
+    }
+  },
+  "Third Sunday After Trinity": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 145",
+        "*Jer 31:1-14",
+        "Matt. 9:9-13"
+      ],
+      "Evening": [
+        "Ps. 32, 36:5",
+        "Jer. 23:1-8",
+        "Luke 19:2-10"
+      ]
+    },
+    "Monday": {
+      "Morning": [
+        "Ps. 86",
+        "Judges 5:1-18",
+        "Luke 6:39"
+      ],
+      "Evening": [
+        "Ps. 84, 85",
+        "Neh. 5:1-13",
+        "Acts 13:44-14:7"
+      ]
+    },
+    "Tuesday": {
+      "Morning": [
+        "Ps. 89:1-19",
+        "Judges 5:19",
+        "Luke 7:1-10"
+      ],
+      "Evening": [
+        "Ps. 90",
+        "Neh. 8:1-3,5-6,9-12",
+        "Acts 14:8-18"
+      ]
+    },
+    "Wednesday": {
+      "Morning": [
+        "Ps. 92",
+        "Judges 6:1,11-16,33-35",
+        "Luke 7:11-17"
+      ],
+      "Evening": [
+        "Ps. 104",
+        "Neh. 9:5-15",
+        "Acts 14:19"
+      ]
+    },
+    "Thursday": {
+      "Morning": [
+        "Ps. 94",
+        "Judges 7:1-8",
+        "Luke 7:18-35"
+      ],
+      "Evening": [
+        "Ps. 111, 114",
+        "Neh. 9:32",
+        "Acts 15:1-12"
+      ]
+    },
+    "Friday": {
+      "Morning": [
+        "Ps. 102",
+        "Judges 7:16",
+        "Luke 7:36"
+      ],
+      "Evening": [
+        "Ps. 116",
+        "Neh. 13:15-22",
+        "Acts 15:13-21"
+      ]
+    },
+    "Saturday": {
+      "Morning": [
+        "Ps. 107:1-16",
+        "Judges 10:17,11:29-40",
+        "Luke 8:1-15"
+      ],
+      "Evening": [
+        "Ps. 93, 99",
+        "1 Macc. 1:1,7-15",
+        "Acts 15:22-35"
+      ]
+    }
+  },
+  "Fourth Sunday After Trinity": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 91",
+        "*Lam 3:22-33",
+        "Matt. 10:24-39"
+      ],
+      "Evening": [
+        "Ps. 51",
+        "Isa. 29:9-15",
+        "Matt. 15:1-20"
+      ]
+    },
+    "Monday": {
+      "Morning": [
+        "Ps. 119:49-64",
+        "Judges 13:2-14,24",
+        "Luke 8:16-25"
+      ],
+      "Evening": [
+        "Ps. 119:65-80 & 117",
+        "1 Macc. 1:41-53",
+        "Acts 15:36-16:5"
+      ]
+    },
+    "Tuesday": {
+      "Morning": [
+        "Ps. 123, 124",
+        "Judges 16:4-14",
+        "Luke 8:26-39"
+      ],
+      "Evening": [
+        "Ps. 126, 127, 130",
+        "1 Macc. 1:54",
+        "Acts 16:6-15"
+      ]
+    },
+    "Wednesday": {
+      "Morning": [
+        "Ps. 125, 138",
+        "Judges 16:15-22",
+        "Luke 8:40"
+      ],
+      "Evening": [
+        "Ps. 132, 134",
+        "1 Macc. 2:1-14",
+        "Acts 16:16-24"
+      ]
+    },
+    "Thursday": {
+      "Morning": [
+        "Ps. 136",
+        "Judges 16:23",
+        "Luke 9:1-17"
+      ],
+      "Evening": [
+        "Ps. 144",
+        "1 Macc. 2:15-30",
+        "Acts 16:25"
+      ]
+    },
+    "Friday": {
+      "Morning": [
+        "Ps. 142, 143",
+        "Ruth 1:1-14",
+        "Luke 9:18-27"
+      ],
+      "Evening": [
+        "Ps. 145",
+        "1 Macc. 2:31-43",
+        "Acts 17:1-15"
+      ]
+    },
+    "Saturday": {
+      "Morning": [
+        "Ps. 147",
+        "Ruth 1:15",
+        "Luke 9:28-45"
+      ],
+      "Evening": [
+        "Ps. 148, 150",
+        "1 Macc. 2:49-52,61-70",
+        "Acts 17:16"
+      ]
+    }
+  },
+  "Fifth Sunday After Trinity": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 62, 63",
+        "*Eccles. 2:1-11,18-23",
+        "Matt. 19:16"
+      ],
+      "Evening": [
+        "Ps. 66",
+        "Prov. 3:1-7,11-12",
+        "Luke 14:25"
+      ]
+    },
+    "Monday": {
+      "Morning": [
+        "Ps. 11, 12",
+        "Ruth 2:1-13",
+        "Luke 9:46"
+      ],
+      "Evening": [
+        "Ps. 8, 19",
+        "1 Macc. 3:1-9",
+        "Acts 18:1-11"
+      ]
+    },
+    "Tuesday": {
+      "Morning": [
+        "Ps. 17",
+        "Ruth 2:14",
+        "Luke 10:1-24"
+      ],
+      "Evening": [
+        "Ps. 13, 14",
+        "1 Macc. 3:42-54",
+        "Acts 18:12-23"
+      ]
+    },
+    "Wednesday": {
+      "Morning": [
+        "Ps. 20, 21:1-6",
+        "Ruth 3:1-13",
+        "Luke 10:25-37"
+      ],
+      "Evening": [
+        "Ps. 27",
+        "1 Macc. 4:36-51",
+        "Acts 18:24-19:7"
+      ]
+    },
+    "Thursday": {
+      "Morning": [
+        "Ps. 25",
+        "Ruth 4:1-8",
+        "Luke 10:38-11:13"
+      ],
+      "Evening": [
+        "Ps. 30, 31:1-6",
+        "1 Macc. 4:52",
+        "Acts 19:8-20"
+      ]
+    },
+    "Friday": {
+      "Morning": [
+        "Ps. 26",
+        "Ruth 4:9-17",
+        "Luke 11:14-28"
+      ],
+      "Evening": [
+        "Ps. 32, 36:5",
+        "Dan. 1:1-7,17-21",
+        "Acts 19:21"
+      ]
+    },
+    "Saturday": {
+      "Morning": [
+        "Ps. 28",
+        "1 Sam. 1:1-11",
+        "Luke 11:29-36"
+      ],
+      "Evening": [
+        "Ps. 47, 48",
+        "Dan. 2:1-6,10-13",
+        "Acts 20:1-16"
+      ]
+    }
+  },
+  "Sixth Sunday After Trinity": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 85",
+        "2 Sam. 19:16-23",
+        "Matt. 5:38"
+      ],
+      "Evening": [
+        "Ps. 57, 130",
+        "Exod. 24:1-11,16-18",
+        "Heb. 9:18"
+      ]
+    },
+    "Monday": {
+      "Morning": [
+        "Ps. 39",
+        "1 Sam. 1:12-20",
+        "Luke 11:37"
+      ],
+      "Evening": [
+        "Ps. 42, 43",
+        "Dan. 2:14-24",
+        "Acts 20:17"
+      ]
+    },
+    "Tuesday": {
+      "Morning": [
+        "Ps. 45",
+        "1 Sam. 1:21-28,2:11",
+        "Luke 12:1-12"
+      ],
+      "Evening": [
+        "Ps. 49",
+        "Dan. 2:25-35",
+        "Acts 21:1-14"
+      ]
+    },
+    "Wednesday": {
+      "Morning": [
+        "Ps. 56",
+        "1 Sam. 2:18-26",
+        "Luke 12:13-21"
+      ],
+      "Evening": [
+        "Ps. 62, 63",
+        "Dan. 2:36-45",
+        "Acts 21:15-26"
+      ]
+    },
+    "Thursday": {
+      "Morning": [
+        "Ps. 65",
+        "1 Sam. 3:1-18",
+        "Luke 12:22-34"
+      ],
+      "Evening": [
+        "Ps. 66",
+        "Dan. 3:1-7",
+        "Acts 21:27-36"
+      ]
+    },
+    "Friday": {
+      "Morning": [
+        "Ps. 69:1-22,30-37",
+        "1 Sam. 4:1b-11",
+        "Luke 12:35-48"
+      ],
+      "Evening": [
+        "Ps. 71",
+        "Dan. 3:8-18",
+        "Acts 21:37-22:16"
+      ]
+    },
+    "Saturday": {
+      "Morning": [
+        "Ps. 72",
+        "1 Sam. 4:12",
+        "Luke 12:49"
+      ],
+      "Evening": [
+        "Ps. 15, 46",
+        "Dan. 3:19",
+        "Acts 22:17-29"
+      ]
+    }
+  },
+  "Seventh Sunday After Trinity": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 18:1-20",
+        "*Hosea 14",
+        "Rom. 6:12-18"
+      ],
+      "Evening": [
+        "Ps. 50",
+        "Dan. 5:1-9,13-30",
+        "Rom. 1:17-21,28-32"
+      ]
+    },
+    "Monday": {
+      "Morning": [
+        "Ps. 75, 76",
+        "1 Sam. 8:4",
+        "Luke 13:1-9"
+      ],
+      "Evening": [
+        "Ps. 73",
+        "Dan. 4:4-5,10-18",
+        "Acts 22:30-23:11"
+      ]
+    },
+    "Tuesday": {
+      "Morning": [
+        "Ps. 77",
+        "1 Sam. 9:1-10",
+        "Luke 13:10-21"
+      ],
+      "Evening": [
+        "Ps. 74",
+        "Dan. 4:19-27",
+        "Acts 23:12-24"
+      ]
+    },
+    "Wednesday": {
+      "Morning": [
+        "Ps. 80",
+        "1 Sam. 9:11-21",
+        "Luke 13:22"
+      ],
+      "Evening": [
+        "Ps. 81",
+        "Dan. 4:28",
+        "Acts 23:25-24:9"
+      ]
+    },
+    "Thursday": {
+      "Morning": [
+        "Ps. 85",
+        "1 Sam. 9:22",
+        "Luke 14:1-14"
+      ],
+      "Evening": [
+        "Ps. 89:1-19",
+        "Dan. 5:1-9",
+        "Acts 24:10-23"
+      ]
+    },
+    "Friday": {
+      "Morning": [
+        "Ps. 86",
+        "1 Sam. 10:1-11",
+        "Luke 14:15-24"
+      ],
+      "Evening": [
+        "Ps. 91",
+        "Dan. 5:10-16",
+        "Acts 24:24-25:12"
+      ]
+    },
+    "Saturday": {
+      "Morning": [
+        "Ps. 90",
+        "1 Sam. 10:17",
+        "Luke 14:25"
+      ],
+      "Evening": [
+        "Ps. 96, 98",
+        "Dan. 5:17-30",
+        "Acts 25:13"
+      ]
+    }
+  },
+  "Eighth Sunday After Trinity": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 119:33-48",
+        "*Ecclus 1:18-27",
+        "John 7:14-24"
+      ],
+      "Evening": [
+        "Ps. 25",
+        "Ecclus. 6:22",
+        "Luke 10:38"
+      ]
+    },
+    "Monday": {
+      "Morning": [
+        "Ps. 104",
+        "1 Sam. 11:1-13",
+        "Luke 15:1-10"
+      ],
+      "Evening": [
+        "Ps. 116",
+        "Dan. 6:1-8",
+        "Acts 26:1-23"
+      ]
+    },
+    "Tuesday": {
+      "Morning": [
+        "Ps. 111, 114",
+        "1 Sam. 11:14-12:5",
+        "Luke 15:11"
+      ],
+      "Evening": [
+        "Ps. 118",
+        "Dan. 6:9-15",
+        "Acts 26:24-27:8"
+      ]
+    },
+    "Wednesday": {
+      "Morning": [
+        "Ps. 119:81-96",
+        "1 Sam. 12:19",
+        "Luke 16:1-18"
+      ],
+      "Evening": [
+        "Ps. 119:97-112 & 117",
+        "Dan. 6:16-23,25-27",
+        "Acts 27:9-26"
+      ]
+    },
+    "Thursday": {
+      "Morning": [
+        "Ps. 128, 129",
+        "1 Sam. 15:1-9",
+        "Luke 16:19"
+      ],
+      "Evening": [
+        "Ps. 132, 134",
+        "Esther 2:5-8,17-23",
+        "Acts 27:27"
+      ]
+    },
+    "Friday": {
+      "Morning": [
+        "Ps. 139",
+        "1 Sam. 15:10-23",
+        "Luke 17:1-10"
+      ],
+      "Evening": [
+        "Ps. 138, 146",
+        "Esther 3:1-12",
+        "Acts 28:1-15"
+      ]
+    },
+    "Saturday": {
+      "Morning": [
+        "Ps. 145",
+        "1 Sam. 15:24-34",
+        "Luke 17:11-19"
+      ],
+      "Evening": [
+        "Ps. 147",
+        "Esther 4:1,5-17",
+        "Acts 28:16"
+      ]
+    }
+  },
+  "Ninth Sunday After Trinity": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 115",
+        "Ezek. 14:1-11",
+        "1 Thess. 4:1-12"
+      ],
+      "Evening": [
+        "Ps. 119:9-24",
+        "Prov. 4:1-4,20-27",
+        "Heb. 12:1-13"
+      ]
+    },
+    "Monday": {
+      "Morning": [
+        "Ps. 2, 3",
+        "1 Sam. 16:1-13",
+        "Luke 17:20"
+      ],
+      "Evening": [
+        "Ps. 4, 8",
+        "Esther 5",
+        "Rom. 1:1-17"
+      ]
+    },
+    "Tuesday": {
+      "Morning": [
+        "Ps. 5",
+        "1 Sam. 16:14",
+        "Luke 18:1-14"
+      ],
+      "Evening": [
+        "Ps. 16, 20",
+        "Esther 6",
+        "Rom. 2:1-16"
+      ]
+    },
+    "Wednesday": {
+      "Morning": [
+        "Ps. 9",
+        "1 Sam. 17:1-11",
+        "Luke 18:15-30"
+      ],
+      "Evening": [
+        "Ps. 19, 23",
+        "Esther 7",
+        "Rom. 2:17"
+      ]
+    },
+    "Thursday": {
+      "Morning": [
+        "Ps. 10",
+        "1 Sam. 17:17-27",
+        "Luke 18:31"
+      ],
+      "Evening": [
+        "Ps. 21:1-6 & 24",
+        "Micah 1:1-7a",
+        "Rom. 3:1-20"
+      ]
+    },
+    "Friday": {
+      "Morning": [
+        "Ps. 22",
+        "1 Sam. 17:28-40",
+        "Luke 19:1-10"
+      ],
+      "Evening": [
+        "Ps. 25",
+        "Micah 2",
+        "Rom. 3:21"
+      ]
+    },
+    "Saturday": {
+      "Morning": [
+        "Ps. 18:1-20",
+        "1 Sam. 17:41-51",
+        "Luke 19:11-28"
+      ],
+      "Evening": [
+        "Ps. 84",
+        "Micah 3:1-8",
+        "Rom. 4:1-12"
+      ]
+    }
+  }
+}

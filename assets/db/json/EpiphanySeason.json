@@ -1,0 +1,574 @@
+{
+  "Epiphany": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 46, 100",
+        "Isa. 60:1-9",
+        "2 Cor. 4:1-6",
+        "January 7 {3}",
+        "Ps. 85",
+        "Isa. 42:1-9",
+        "Matt. 3:13",
+        "January 8 {3}",
+        "Ps. 65",
+        "Isa. 45:20",
+        "Mark 9:2-13",
+        "January 9 {3}",
+        "Ps. 22:23 & 24",
+        "Isa. 49:8-13,22-23",
+        "1 John 1:1-9",
+        "January 10 {3}",
+        "Ps. 67, 87",
+        "Isa. 19:19",
+        "Col. 2:6-17",
+        "January 11 {3}",
+        "Ps. 102:15",
+        "Jonah 4",
+        "Pet. 1:1-9",
+        "January 12 {3}",
+        "Ps. 50",
+        "Mal. 1:11",
+        "2 Thess. 1"
+      ],
+      "Evening": [
+        "Ps. 72",
+        "Isa. 61",
+        "Rom. 15:8-21",
+        "Ps. 97, 99",
+        "Isa. 43:1-12",
+        "Acts 11:1-18",
+        "Ps. 93, 96",
+        "Isa. 48:12-21",
+        "Acts 26:1,13-23",
+        "Ps. 48, 117",
+        "Isa. 54:1-10",
+        "Acts 28:23",
+        "Ps. 138, 146",
+        "Zech. 8:11-13,20-23",
+        "Rom. 10:1-20",
+        "Ps. 147",
+        "Tobit 13:1b-5,7-11",
+        "Rom. 11:13-27",
+        "Ps. 145",
+        "Isa. 9:2-7",
+        "Gal. 3:27-4:7"
+      ]
+    }
+  },
+  "First Sunday After Epiphany": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 72, 97",
+        "Isa. 60:1-9\u00e2\u20ac",
+        "Matt. 2:1-12"
+      ],
+      "Evening": [
+        "Ps. 84, 122",
+        "1 Sam. 1:21",
+        "Matt. 18:1-14"
+      ]
+    },
+    "Monday": {
+      "Morning": [
+        "Ps. 1, 3",
+        "Prov. 1:7-19",
+        "Eph. 1"
+      ],
+      "Evening": [
+        "Ps. 4, 8",
+        "Ezek. 1:2-6,24-28",
+        "John 1:1-18"
+      ]
+    },
+    "Tuesday": {
+      "Morning": [
+        "Ps. 5",
+        "Prov. 2:1-9",
+        "Eph. 2:1-10"
+      ],
+      "Evening": [
+        "Ps. 11, 12",
+        "Ezek. 2",
+        "John 1:19-34"
+      ]
+    },
+    "Wednesday": {
+      "Morning": [
+        "Ps. 7",
+        "Prov. 3:1-7,11-12",
+        "Eph. 2:11"
+      ],
+      "Evening": [
+        "Ps. 13, 14",
+        "Ezek. 3:4-14",
+        "John 1:35"
+      ]
+    },
+    "Thursday": {
+      "Morning": [
+        "Ps. 9",
+        "Prov. 3:13-20",
+        "Eph. 3:1-13"
+      ],
+      "Evening": [
+        "Ps. 15, 21",
+        "Ezek. 3:16-21",
+        "John 2:1-12"
+      ]
+    },
+    "Friday": {
+      "Morning": [
+        "Ps. 10",
+        "Prov. 3:27",
+        "Eph. 3:14"
+      ],
+      "Evening": [
+        "Ps. 6, 26",
+        "Ezek. 7:10-15,23-27",
+        "John 2:13"
+      ]
+    },
+    "Saturday": {
+      "Morning": [
+        "Ps. 16",
+        "Prov. 4:7-18",
+        "Eph. 4:1-16"
+      ],
+      "Evening": [
+        "Ps. 27",
+        "Ezek. 11:14-20",
+        "John 3:1-13"
+      ]
+    }
+  },
+  "Second Sunday After Epiphany": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 118",
+        "*Zech. 8:1-8,20-23",
+        "1 Cor. 12:12-31a"
+      ],
+      "Evening": [
+        "Ps. 102:15 & 117",
+        "Isa. 45:1-15",
+        "Rom. 9:14-26"
+      ]
+    },
+    "Monday": {
+      "Morning": [
+        "Ps. 17",
+        "Prov. 4:20",
+        "Eph. 4:17"
+      ],
+      "Evening": [
+        "Ps. 18:1-20",
+        "Ezek. 12:21",
+        "John 3:14-21"
+      ]
+    },
+    "Tuesday": {
+      "Morning": [
+        "Ps. 23, 24",
+        "Prov. 6:12-19",
+        "Eph. 5:1-14"
+      ],
+      "Evening": [
+        "Ps. 25",
+        "Ezek. 13:1-9",
+        "John 3:22"
+      ]
+    },
+    "Wednesday": {
+      "Morning": [
+        "Ps. 28",
+        "Prov. 8:1-11",
+        "Eph. 5:15"
+      ],
+      "Evening": [
+        "Ps. 31",
+        "Ezek. 14:1-11",
+        "John 4:1-14"
+      ]
+    },
+    "Thursday": {
+      "Morning": [
+        "Ps. 30",
+        "Prov. 8:12-20",
+        "Eph. 6"
+      ],
+      "Evening": [
+        "Ps. 33",
+        "Ezek. 4:12-20",
+        "John 4:15-26"
+      ]
+    },
+    "Friday": {
+      "Morning": [
+        "Ps. 32",
+        "Prov. 8:22-35",
+        "Phil. 1:1-11"
+      ],
+      "Evening": [
+        "Ps. 40:1-16",
+        "Ezek. 18:1-4,19-23",
+        "John 4:27-42"
+      ]
+    },
+    "Saturday": {
+      "Morning": [
+        "Ps. 36",
+        "Prov. 9:1-6,13-18",
+        "Phil. 1:12-26"
+      ],
+      "Evening": [
+        "Ps. 34",
+        "Ezek. 18:26",
+        "John 4:43"
+      ]
+    }
+  },
+  "Third Sunday After Epiphany": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 42, 43",
+        "*Isa. 41:8-10,17-20",
+        "John 4:1-14"
+      ],
+      "Evening": [
+        "Ps. 27, 134",
+        "Isa. 56:1-8",
+        "John 2:13"
+      ]
+    },
+    "Monday": {
+      "Morning": [
+        "Ps. 39",
+        "Prov. 10:12-14,18-21",
+        "Phil. 1:27-2:11"
+      ],
+      "Evening": [
+        "Ps. 37:1-24",
+        "Ezek. 27:1-5,26-36",
+        "John 5:1-15"
+      ]
+    },
+    "Tuesday": {
+      "Morning": [
+        "Ps. 41",
+        "Prov. 10:22-29",
+        "Phil. 2:12-18"
+      ],
+      "Evening": [
+        "Ps. 46, 47",
+        "Ezek. 33:1-9",
+        "John 5:16-29"
+      ]
+    },
+    "Wednesday": {
+      "Morning": [
+        "Ps. 44",
+        "Prov. 11:9-14,24-30",
+        "Phil. 2:19"
+      ],
+      "Evening": [
+        "Ps. 49",
+        "Ezek. 33:10-20",
+        "John 5:30"
+      ]
+    },
+    "Thursday": {
+      "Morning": [
+        "Ps. 45",
+        "Prov. 14:26",
+        "Phil. 3:1-16"
+      ],
+      "Evening": [
+        "Ps. 50",
+        "Ezek. 33:23",
+        "John 6:1-14"
+      ]
+    },
+    "Friday": {
+      "Morning": [
+        "Ps. 51",
+        "Prov. 15:16-23,27-29",
+        "Phil. 3:17-4:3"
+      ],
+      "Evening": [
+        "Ps. 54, 57",
+        "Ezek. 34:1-10",
+        "John 6:15-29"
+      ]
+    },
+    "Saturday": {
+      "Morning": [
+        "Ps. 55",
+        "Prov. 16:25",
+        "Phil. 4:4"
+      ],
+      "Evening": [
+        "Ps. 29, 99",
+        "Ezek. 34:11-16",
+        "John 6:30-40"
+      ]
+    }
+  },
+  "Fourth Sunday After Epiphany": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 66",
+        "Isa. 61",
+        "Luke 4:16-32"
+      ],
+      "Evening": [
+        "Ps. 145",
+        "Isa. 45:20",
+        "Rom. 10"
+      ]
+    },
+    "Monday": {
+      "Morning": [
+        "Ps. 56, 60:1-5",
+        "Prov. 20:9-12,17-22",
+        "Col. 1:1-17"
+      ],
+      "Evening": [
+        "Ps. 65",
+        "Ezek. 34:25",
+        "John 6:41-59"
+      ]
+    },
+    "Tuesday": {
+      "Morning": [
+        "Ps. 61, 62",
+        "Prov. 21:21",
+        "Col. 1:18-2:5"
+      ],
+      "Evening": [
+        "Ps. 71",
+        "Ezek. 36:22-28",
+        "John 6:60"
+      ]
+    },
+    "Wednesday": {
+      "Morning": [
+        "Ps. 63, 64",
+        "Prov. 22:1-6,17-25",
+        "Col. 2:6-19"
+      ],
+      "Evening": [
+        "Ps. 72",
+        "Ezek. 37:1-14",
+        "John 7:1-13"
+      ]
+    },
+    "Thursday": {
+      "Morning": [
+        "Ps. 68:1-19",
+        "Prov. 23:20-21,29-35",
+        "Col. 2:20-3:11"
+      ],
+      "Evening": [
+        "Ps. 73",
+        "Ezek. 37:21b",
+        "John 7:14-24"
+      ]
+    },
+    "Friday": {
+      "Morning": [
+        "Ps. 69:1-22,30-37",
+        "Prov. 24:23",
+        "Col. 3:12-17"
+      ],
+      "Evening": [
+        "Ps. 75, 76",
+        "Ezek. 39:21",
+        "John 7:25-36"
+      ]
+    },
+    "Saturday": {
+      "Morning": [
+        "Ps. 77",
+        "Prov. 25:11-15,17-22",
+        "Col. 3:18-4:6"
+      ],
+      "Evening": [
+        "Ps. 19, 67",
+        "Ezek. 43:1-9",
+        "John 7:37"
+      ]
+    }
+  },
+  "Fifth Sunday After Epiphany": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 15, 85",
+        "Ruth 1:1-17",
+        "Col. 3:5-11"
+      ],
+      "Evening": [
+        "Ps. 21, 22:23",
+        "Joel 3:9-17",
+        "Matt. 13:36-52"
+      ]
+    },
+    "Monday": {
+      "Morning": [
+        "Ps. 79",
+        "Prov. 26:17",
+        "1 Pet. 1:1-12"
+      ],
+      "Evening": [
+        "Ps. 81",
+        "Isa. 14:3-11",
+        "1 Thess. 1"
+      ]
+    },
+    "Tuesday": {
+      "Morning": [
+        "Ps. 82, 101",
+        "Prov. 27:1-6,10-12",
+        "1 Pet. 1:13"
+      ],
+      "Evening": [
+        "Ps. 90",
+        "Isa. 14:12-20",
+        "1 Thess. 2:1-13"
+      ]
+    },
+    "Wednesday": {
+      "Morning": [
+        "Ps. 86",
+        "Prov. 28:1-13",
+        "1 Pet. 2:1-10"
+      ],
+      "Evening": [
+        "Ps. 91",
+        "Isa. 22:1-5,12-14",
+        "1 Thess. 2:17-3:13"
+      ]
+    },
+    "Thursday": {
+      "Morning": [
+        "Ps. 89:1-19",
+        "Prov. 29:11-25",
+        "1 Pet. 2:11-17"
+      ],
+      "Evening": [
+        "Ps. 94",
+        "Isa. 24:1-6,10-16a",
+        "1 Thess. 4:1-12"
+      ]
+    },
+    "Friday": {
+      "Morning": [
+        "Ps. 92",
+        "Prov. 30:4-9",
+        "1 Pet. 2:18"
+      ],
+      "Evening": [
+        "Ps. 102",
+        "Isa. 31",
+        "1 Thess. 4:13"
+      ]
+    },
+    "Saturday": {
+      "Morning": [
+        "Ps. 97",
+        "Prov. 31:10",
+        "1 Pet. 3:1-12"
+      ],
+      "Evening": [
+        "Ps. 84, 122",
+        "Isa. 47:1,7-15",
+        "1 Thess. 5:1-11"
+      ]
+    }
+  },
+  "Sixth Sunday After Epiphany": {
+    "Sunday": {
+      "Morning": [
+        "Ps. 75, 138",
+        "Isa. 2:6-19",
+        "Matt. 25:14-29"
+      ],
+      "Evening": [
+        "Ps. 9",
+        "Gen. 19:1-3,12-17,24-28",
+        "Luke 17:20"
+      ]
+    },
+    "Monday": {
+      "Morning": [
+        "Ps. 99, 100",
+        "Lam. 1:1-6",
+        "1 Pet. 3:13"
+      ],
+      "Evening": [
+        "Ps. 103",
+        "Wisdom 1:1-7",
+        "1 Thess. 5:12"
+      ]
+    },
+    "Tuesday": {
+      "Morning": [
+        "Ps. 107:1-16",
+        "Lam. 1:15",
+        "1 Pet. 4:1-6"
+      ],
+      "Evening": [
+        "Ps. 104",
+        "Wisdom 6:1-11",
+        "2 Thess. 1"
+      ]
+    },
+    "Wednesday": {
+      "Morning": [
+        "Ps. 111, 112",
+        "Lam. 2:1-10",
+        "1 Pet. 4:7-11"
+      ],
+      "Evening": [
+        "Ps. 105",
+        "Wisdom 6:12-21",
+        "2 Thess. 2:1-12"
+      ]
+    },
+    "Thursday": {
+      "Morning": [
+        "Ps. 115",
+        "Lam. 4:1-6,9",
+        "1 Pet. 4:12"
+      ],
+      "Evening": [
+        "Ps. 114, 124",
+        "Wisdom 7:7-14",
+        "2 Thess. 2:13-3:5"
+      ]
+    },
+    "Friday": {
+      "Morning": [
+        "Ps. 106",
+        "Lam. 4:11-20",
+        "1 Pet. 5:1-7"
+      ],
+      "Evening": [
+        "Ps. 116",
+        "Wisdom 7:15-22a",
+        "2 Thess. 3:6"
+      ]
+    },
+    "Saturday": {
+      "Morning": [
+        "Ps. 118",
+        "Lam. 5",
+        "1 Pet. 5:8"
+      ],
+      "Evening": [
+        "Ps. 85, 134",
+        "Wisdom 7:22-8:1",
+        "Jude"
+      ]
+    }
+  }
+}
